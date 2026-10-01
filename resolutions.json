@@ -1,1 +1,67 @@
-{}
+{
+  "iran-charges-hormuz-fees-by-september-30": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "saudi-oil-pipeline-east-west-restarts-by-september-30": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "trump-renames-ai-by-september-30": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "us-iran-hormuz-agreement-by-september-30": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "us-x-iran-ceasefire-continues-through-september-30-20260917": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-bitcoin-dip-to-80k-in-september-2026-from-september-18": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-bitcoin-reach-87pt5k-in-september-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-ethereum-dip-to-2600-in-september-2026-from-september-20": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-ethereum-reach-2900-in-september-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-strc-hit-100-by-september-30-20260618001621118": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-wti-reach-100-in-september-2026-from-september-18": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-wti-reach-105-in-september-2026-from-september-16": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-01T10:51:29Z"
+  }
+}
