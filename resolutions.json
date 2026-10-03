@@ -4,10 +4,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "bitcoin-above-84k-on-october-3-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-03T21:37:16Z"
+  },
   "bitcoin-above-86k-on-october-2-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
+  },
+  "bitcoin-above-88k-on-october-3-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-03T21:37:16Z"
   },
   "elon-musk-of-tweets-october-1-october-3-2026-0-39": {
     "outcome": 0,
@@ -68,6 +78,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
+  },
+  "unl-hrv-eng-2026-10-03-eng": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-03T21:37:16Z"
   },
   "unl-ukr-nir-2026-10-02-ukr": {
     "outcome": 0,
