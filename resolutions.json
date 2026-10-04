@@ -44,6 +44,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "fif-arg-bur-2026-10-03-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-04T13:04:06Z"
+  },
   "googl-above-345-on-october-2-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -69,6 +74,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "unl-esp-cze-2026-10-03-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-04T13:04:06Z"
+  },
+  "unl-esp-cze-2026-10-03-esp": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-04T13:04:06Z"
+  },
   "unl-fra-ita-2026-10-02-fra": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -83,6 +98,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T21:37:16Z"
+  },
+  "unl-mac-sco-2026-10-03-sco": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-04T13:04:06Z"
   },
   "unl-ukr-nir-2026-10-02-ukr": {
     "outcome": 0,
