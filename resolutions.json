@@ -24,6 +24,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T21:37:16Z"
   },
+  "brazil-first-round-vote-share-flavio-bolsonaro-39-plus": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "brazil-first-round-vote-share-renan-santos-8-plus": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
   "elon-musk-of-tweets-october-1-october-3-2026-0-39": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -64,6 +74,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "nfl-ten-bal-2026-10-04-2plus-td-chris-moore": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
   "saudi-oil-pipeline-east-west-restarts-by-september-30": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -99,15 +114,30 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "unl-grc-ger-2026-10-04-ger": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
   "unl-hrv-eng-2026-10-03-eng": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T21:37:16Z"
   },
+  "unl-ire-isr-2026-10-04-ire": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
   "unl-mac-sco-2026-10-03-sco": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-04T13:04:06Z"
+  },
+  "unl-nld-ser-2026-10-04-nld": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
   },
   "unl-ukr-nir-2026-10-02-ukr": {
     "outcome": 0,
@@ -129,25 +159,115 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-augusto-cury-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
   "will-bitcoin-dip-to-80k-in-september-2026-from-september-18": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-bitcoin-dip-to-82k-september-28-october-4-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
   },
   "will-bitcoin-reach-87pt5k-in-september-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "will-bitcoin-reach-88k-september-28-october-4-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
   "will-ethereum-dip-to-2600-in-september-2026-from-september-20": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "will-ethereum-dip-to-2600-september-28-october-4-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-ethereum-reach-2800-september-28-october-4-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
   "will-ethereum-reach-2900-in-september-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-flavio-bolsonaro-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-flvio-bolsonaro-win-the-first-round-of-the-2026-brazilian-presidential-election-by-510": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-flvio-bolsonaro-win-the-first-round-of-the-2026-brazilian-presidential-election-by-less-than-5-183": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-luiz-incio-lula-da-silva-qualify-for-brazils-presidential-runoff": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-luiz-incio-lula-da-silva-win-the-first-round-of-the-2026-brazilian-presidential-election-by-510-971": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-luiz-incio-lula-da-silva-win-the-first-round-of-the-2026-brazilian-presidential-election-by-less-than-5-639": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-partido-liberal-pl-win-the-most-seats-in-the-next-brazilian-senate-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-renan-santos-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-ronaldo-caiado-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-05T14:46:46Z"
   },
   "will-strc-hit-100-by-september-30-20260618001621118": {
     "outcome": 0,
