@@ -19,6 +19,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-04T17:12:15Z"
   },
+  "bitcoin-above-86k-on-october-5-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
   "bitcoin-above-88k-on-october-3-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -59,6 +64,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "ethereum-above-2700-on-october-5-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
   "fif-arg-bur-2026-10-03-draw": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -94,6 +104,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "unl-bih-pol-2026-10-05-pol": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "unl-cyp-lat-2026-10-05-cyp": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
   "unl-esp-cze-2026-10-03-draw": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -103,6 +123,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-04T13:04:06Z"
+  },
+  "unl-fra-bel-2026-10-05-fra": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
   },
   "unl-fra-ita-2026-10-02-fra": {
     "outcome": 0,
@@ -129,15 +154,40 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "unl-ita-tur-2026-10-05-ita": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "unl-ita-tur-2026-10-05-tur": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
   "unl-mac-sco-2026-10-03-sco": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-04T13:04:06Z"
   },
+  "unl-nir-geo-2026-10-05-nir": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
   "unl-nld-ser-2026-10-04-nld": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "unl-rom-swe-2026-10-05-swe": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "unl-ukr-hun-2026-10-05-hun": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
   },
   "unl-ukr-nir-2026-10-02-ukr": {
     "outcome": 0,
@@ -159,6 +209,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "will-acm-neto-win-the-2026-bahia-gubernatorial-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
   "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -168,6 +223,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-bia-kicis-win-the-second-most-votes-in-the-2026-federal-district-senate-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
   },
   "will-bitcoin-dip-to-80k-in-september-2026-from-september-18": {
     "outcome": 0,
@@ -179,6 +239,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "will-bitcoin-dip-to-84k-on-october-5-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
   "will-bitcoin-reach-87pt5k-in-september-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -188,6 +253,21 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-ciro-gomes-win-the-2026-cear-gubernatorial-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-cleitinho-azevedo-win-the-2026-minas-gerais-gubernatorial-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-elmano-de-freitas-win-the-2026-cear-gubernatorial-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
   },
   "will-ethereum-dip-to-2600-in-september-2026-from-september-20": {
     "outcome": 0,
@@ -229,6 +309,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "will-guilherme-derrite-win-the-most-votes-in-the-2026-sao-paulo-senate-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-jernimo-rodrigues-win-the-2026-bahia-gubernatorial-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
   "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -254,10 +344,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "will-parti-libral-du-qubec-win-the-most-seats-in-the-2026-quebec-general-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-parti-qubcois-win-the-most-seats-in-the-2026-quebec-general-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
+  },
   "will-partido-liberal-pl-win-the-most-seats-in-the-next-brazilian-senate-election": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-raquel-lyra-win-the-pernambuco-governor-election-20260709143134927": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T13:22:08Z"
   },
   "will-renan-santos-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
     "outcome": 0,
