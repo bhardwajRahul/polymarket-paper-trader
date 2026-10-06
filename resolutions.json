@@ -24,10 +24,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "bitcoin-above-86k-on-october-6-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T17:07:54Z"
+  },
   "bitcoin-above-88k-on-october-3-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T21:37:16Z"
+  },
+  "bitcoin-above-88k-on-october-6-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T17:07:54Z"
   },
   "brazil-first-round-vote-share-flavio-bolsonaro-39-plus": {
     "outcome": 1,
@@ -373,6 +383,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-sergio-moro-win-the-governor-of-parana-election-20260608205122817": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-06T17:07:54Z"
   },
   "will-strc-hit-100-by-september-30-20260618001621118": {
     "outcome": 0,
