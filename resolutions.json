@@ -4,10 +4,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "bitcoin-above-82k-on-october-7-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-07T17:32:55Z"
+  },
   "bitcoin-above-84k-on-october-3-2026": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T21:37:16Z"
+  },
+  "bitcoin-above-84k-on-october-7-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-07T17:32:55Z"
   },
   "bitcoin-above-86k-on-october-2-2026": {
     "outcome": 0,
@@ -39,6 +49,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T17:07:54Z"
   },
+  "bitcoin-above-88k-on-october-7-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-07T17:32:55Z"
+  },
   "brazil-first-round-vote-share-flavio-bolsonaro-39-plus": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -53,6 +68,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
+  },
+  "elon-musk-of-tweets-october-5-october-7-2026-0-39": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-07T17:32:55Z"
   },
   "elon-musk-of-tweets-september-25-october-2-2026-180-199": {
     "outcome": 0,
@@ -84,10 +104,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "ethereum-above-2500-on-october-7-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-07T17:32:55Z"
+  },
   "ethereum-above-2600-on-october-2-2026": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
+  },
+  "ethereum-above-2600-on-october-7-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-07T17:32:55Z"
   },
   "ethereum-above-2700-on-october-2-2026": {
     "outcome": 0,
