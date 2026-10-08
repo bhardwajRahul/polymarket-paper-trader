@@ -54,6 +54,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T17:32:55Z"
   },
+  "bra-cre-gre-2026-10-07-cre": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-08T13:35:12Z"
+  },
   "brazil-first-round-vote-share-flavio-bolsonaro-39-plus": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -73,6 +78,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T17:32:55Z"
+  },
+  "elon-musk-of-tweets-october-5-october-7-2026-40-64": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-08T13:35:12Z"
+  },
+  "elon-musk-of-tweets-october-5-october-7-2026-65-89": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-08T13:35:12Z"
   },
   "elon-musk-of-tweets-september-25-october-2-2026-180-199": {
     "outcome": 0,
@@ -399,6 +414,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "will-bitcoin-dip-to-81k-on-october-7-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-08T13:35:12Z"
+  },
   "will-bitcoin-dip-to-82k-september-28-october-4-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -488,6 +508,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-jynxzi-ron-and-los-beat-the-minecraft-challenge-by-october-7-20261004": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-08T13:35:12Z"
   },
   "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
     "outcome": 1,
