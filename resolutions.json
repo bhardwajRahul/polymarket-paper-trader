@@ -4,6 +4,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-08T17:52:06Z"
   },
+  "bitcoin-above-80k-on-october-9-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-09T17:46:48Z"
+  },
   "bitcoin-above-82k-on-october-2-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -19,6 +24,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-08T17:52:06Z"
   },
+  "bitcoin-above-82k-on-october-9-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-09T17:46:48Z"
+  },
   "bitcoin-above-84k-on-october-3-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -33,6 +43,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-08T17:52:06Z"
+  },
+  "bitcoin-above-84k-on-october-9-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-09T17:46:48Z"
   },
   "bitcoin-above-86k-on-october-2-2026": {
     "outcome": 0,
@@ -53,6 +68,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T17:07:54Z"
+  },
+  "bitcoin-above-86k-on-october-9-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-09T17:46:48Z"
   },
   "bitcoin-above-88k-on-october-3-2026": {
     "outcome": 0,
@@ -154,6 +174,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "ethereum-above-2400-on-october-9-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-09T17:46:48Z"
+  },
   "ethereum-above-2500-on-october-7-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -163,6 +188,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-08T17:52:06Z"
+  },
+  "ethereum-above-2500-on-october-9-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-09T17:46:48Z"
   },
   "ethereum-above-2600-on-october-2-2026": {
     "outcome": 1,
@@ -663,6 +693,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
+  },
+  "will-the-price-of-bitcoin-be-between-82000-84000-on-october-9-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-09T17:46:48Z"
   },
   "will-wti-reach-100-in-september-2026-from-september-18": {
     "outcome": 0,
