@@ -1,4 +1,9 @@
 {
+  "bitcoin-above-80k-on-october-10-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
   "bitcoin-above-80k-on-october-8-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -104,6 +109,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "bun-aug-bay-2026-10-10-bay": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
   "bun-dor-wer-2026-10-09-dor": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -113,6 +123,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-10T12:36:40Z"
+  },
+  "elc-bbr-car-2026-10-10-car": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
   },
   "elon-musk-of-tweets-october-1-october-3-2026-0-39": {
     "outcome": 0,
@@ -164,6 +179,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-08T13:35:12Z"
   },
+  "elon-musk-of-tweets-october-8-october-10-2026-115-139": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "elon-musk-of-tweets-october-8-october-10-2026-165-189": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "elon-musk-of-tweets-october-8-october-10-2026-90-114": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
   "elon-musk-of-tweets-september-25-october-2-2026-180-199": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -199,6 +229,36 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-10T16:26:00Z"
   },
+  "epl-ast-bre-2026-10-10-bre": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "epl-che-bou-2026-10-10-bou": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "epl-che-bou-2026-10-10-che": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "epl-ips-ful-2026-10-10-ips": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "epl-mun-tot-2026-10-10-mun": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "epl-sun-bri-2026-10-10-bri": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
   "ethereum-above-2400-on-october-9-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -218,6 +278,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-09T17:46:48Z"
+  },
+  "ethereum-above-2600-on-october-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
   },
   "ethereum-above-2600-on-october-2-2026": {
     "outcome": 1,
@@ -269,10 +334,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "fl1-psg-lmf-2026-10-10-psg": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
   "fr2-asn-gui-2026-10-09-asn": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-10T12:36:40Z"
+  },
+  "gemini-4pt0-released-by-october-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
   },
   "googl-above-345-on-october-2-2026": {
     "outcome": 0,
@@ -283,6 +358,36 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "lal-ala-mad-2026-10-10-mad": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "lal-bar-get-2026-10-10-bar": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "lal-bar-get-2026-10-10-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "lal-bar-get-2026-10-10-get": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "lal-rea-vil-2026-10-10-rea": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "mls-atl-fcc-2026-10-10-atl": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
   },
   "mls-chi-vwh-2026-07-16-btts": {
     "outcome": 1,
@@ -304,10 +409,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "next-fable-model-5pt2-released-by-october-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
   "nfl-ten-bal-2026-10-04-2plus-td-chris-moore": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "por-csm-por-2026-10-10-por": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
   },
   "por-scb-spo-2026-10-09-spo": {
     "outcome": 1,
@@ -319,10 +434,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "swe2-odd-nou-2026-10-10-odd": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
+  },
   "trump-renames-ai-by-september-30": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "tur-ala-erz-2026-10-10-ala": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
   },
   "unl-alb-smr-2026-10-06-alb": {
     "outcome": 1,
@@ -503,6 +628,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "us-x-yemen-ceasefire-continues-through-october-9": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-11T13:07:22Z"
   },
   "will-acm-neto-win-the-2026-bahia-gubernatorial-election": {
     "outcome": 0,
