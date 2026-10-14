@@ -174,6 +174,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "elc-bri-bbr-2026-10-13-bri": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
   "elon-musk-of-tweets-october-1-october-3-2026-0-39": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -193,6 +198,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T20:07:34Z"
+  },
+  "elon-musk-of-tweets-october-12-october-14-2026-40-64": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
   },
   "elon-musk-of-tweets-october-2-october-9-2026-160-179": {
     "outcome": 0,
@@ -484,6 +494,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T18:20:37Z"
   },
+  "gemini-4pt0-released-by-october-14-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
   "gemini-4pt0-released-by-october-15-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -633,6 +648,111 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "ucl-ars-lil-2026-10-13-ars": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-ars-lil-2026-10-13-btts": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-ars-lil-2026-10-13-lil": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-atm-mnu-2026-10-13-atm": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-atm-mnu-2026-10-13-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-atm-mnu-2026-10-13-mnu": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-gal-fcb-2026-10-13-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-gal-fcb-2026-10-13-fcb": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-gal-fcb-2026-10-13-gal": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-int-bru-2026-10-13-bru": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-int-bru-2026-10-13-int": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-rbl-psv-2026-10-13-rbl": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-sf-slp-2026-10-13-slp": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-vf-bay-2026-10-13-bay": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-vf-bay-2026-10-13-vf": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-vil-nap-2026-10-13-nap": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-vil-nap-2026-10-13-vil": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ufc-ilibul-erivis-2026-09-29-bulaid-win-by-ko-tko": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ufc-ilibul-erivis-2026-09-29-go-the-distance": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ufc-ilibul-erivis-2026-09-29-visconde-win-by-ko-tko": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ufc-ilibul-erivis-2026-09-29-win-by-submission": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
   },
   "unl-alb-smr-2026-10-06-alb": {
     "outcome": 1,
@@ -873,6 +993,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
+  },
+  "will-bitcoin-dip-to-81k-on-october-13-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
   },
   "will-bitcoin-dip-to-81k-on-october-7-2026": {
     "outcome": 0,
@@ -1153,6 +1278,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-10T12:36:40Z"
+  },
+  "will-ukraine-target-moscow-on-october-14-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T11:57:58Z"
   },
   "will-wti-reach-100-in-september-2026-from-september-18": {
     "outcome": 0,
