@@ -954,6 +954,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "will-annual-inflation-be-3pt5-in-september-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T15:46:27Z"
+  },
+  "will-annual-inflation-be-3pt6-in-september-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T15:46:27Z"
+  },
+  "will-annual-inflation-be-3pt7-in-september-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T15:46:27Z"
+  },
   "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1183,6 +1198,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-monthly-inflation-increase-by-0pt5-in-september-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-14T15:46:27Z"
   },
   "will-mykola-kuleba-win-the-nobel-peace-prize-in-2026": {
     "outcome": 0,
