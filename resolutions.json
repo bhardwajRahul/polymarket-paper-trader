@@ -1,4 +1,9 @@
 {
+  "arg-cah-gim-2026-10-15-cah": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
   "bitcoin-above-80k-on-october-10-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -8,6 +13,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T18:20:37Z"
+  },
+  "bitcoin-above-80k-on-october-15-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
   },
   "bitcoin-above-80k-on-october-8-2026": {
     "outcome": 1,
@@ -33,6 +43,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
+  },
+  "bitcoin-above-82k-on-october-15-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
   },
   "bitcoin-above-82k-on-october-2-2026": {
     "outcome": 1,
@@ -178,6 +193,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T16:59:39Z"
+  },
+  "col-haj-aja-2026-10-15-aja": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
   },
   "col1-cjf-dep-2026-08-10-dep": {
     "outcome": 0,
@@ -334,6 +354,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
   },
+  "elon-musk-of-tweets-october-9-october-16-2026-280-299": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "elon-musk-of-tweets-october-9-october-16-2026-300-319": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "elon-musk-of-tweets-october-9-october-16-2026-320-339": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
   "elon-musk-of-tweets-september-25-october-2-2026-180-199": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -433,6 +468,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
+  },
+  "ethereum-above-2300-on-october-15-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
   },
   "ethereum-above-2400-on-october-12-2026": {
     "outcome": 1,
@@ -564,6 +604,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T15:26:24Z"
   },
+  "israel-x-iran-ceasefire-continues-through-october-15": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
   "lal-ala-mad-2026-10-10-mad": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -593,6 +638,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "military-action-against-saudi-oil-pipeline-east-west-by-october-15": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
   },
   "mls-atl-fcc-2026-10-10-atl": {
     "outcome": 0,
@@ -638,6 +688,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
+  },
+  "perim-island-no-longer-under-houthi-control-by-october-15-20260916": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
   },
   "por-ben-gui-2026-10-11-ben": {
     "outcome": 1,
@@ -853,6 +908,46 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "uel-din-and-2026-10-15-din": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-hof-bes-2026-10-15-bes": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-lep-lev-2026-10-15-lev": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-lyo-cry-2026-10-15-cry": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-lyo-cry-2026-10-15-lyo": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-rbs-mil1-2026-10-15-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-rbs-mil1-2026-10-15-mil1": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-ut-sun-2026-10-15-sun": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
   },
   "ufc-ilibul-erivis-2026-09-29-bulaid-win-by-ko-tko": {
     "outcome": 0,
@@ -1109,6 +1204,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "will-bitcoin-dip-to-79k-on-october-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
   "will-bitcoin-dip-to-80k-in-september-2026-from-september-18": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1203,6 +1303,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-09T13:22:09Z"
+  },
+  "will-douglas-ruas-win-the-governor-of-rio-de-janeiro-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "will-eduardo-paes-win-the-governor-of-rio-de-janeiro-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
   },
   "will-elmano-de-freitas-win-the-2026-cear-gubernatorial-election": {
     "outcome": 1,
@@ -1379,6 +1489,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "will-russia-and-ukraine-hold-any-diplomatic-meeting-by-october-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
   "will-russia-target-kyiv-on-october-12-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1414,6 +1529,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "will-the-next-google-gemini-pro-model-be-released-by-october-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
+  },
   "will-the-price-of-bitcoin-be-between-80000-82000-on-october-2-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1423,6 +1543,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-09T17:46:48Z"
+  },
+  "will-the-tesla-roadster-fly-for-1s": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-16T11:29:12Z"
   },
   "will-ukraine-target-moscow-on-october-10-2026": {
     "outcome": 1,
