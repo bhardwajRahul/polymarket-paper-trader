@@ -4,6 +4,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
   },
+  "bitcoin-above-78k-on-october-16-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
   "bitcoin-above-80k-on-october-10-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -18,6 +23,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "bitcoin-above-80k-on-october-16-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
   },
   "bitcoin-above-80k-on-october-8-2026": {
     "outcome": 1,
@@ -49,6 +59,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
   },
+  "bitcoin-above-82k-on-october-16-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
   "bitcoin-above-82k-on-october-2-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -79,6 +94,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
   },
+  "bitcoin-above-84k-on-october-16-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
   "bitcoin-above-84k-on-october-3-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -103,6 +123,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T20:07:34Z"
+  },
+  "bitcoin-above-86k-on-october-16-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
   },
   "bitcoin-above-86k-on-october-2-2026": {
     "outcome": 0,
@@ -184,6 +209,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-10T12:36:40Z"
   },
+  "bun-ein-koe-2026-10-16-ein": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
   "bun-fre-s04-2026-10-11-fre": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -193,6 +223,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T16:59:39Z"
+  },
+  "chi-hen-jin-2026-10-16-hen": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
   },
   "col-haj-aja-2026-10-15-aja": {
     "outcome": 0,
@@ -218,6 +253,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "elc-bur-wol-2026-10-16-wol": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
   },
   "elon-musk-of-tweets-october-1-october-3-2026-0-39": {
     "outcome": 0,
@@ -369,6 +409,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
   },
+  "elon-musk-of-tweets-october-9-october-16-2026-340-359": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
+  "elon-musk-of-tweets-october-9-october-16-2026-360-379": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
+  "elon-musk-of-tweets-october-9-october-16-2026-380-399": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
   "elon-musk-of-tweets-september-25-october-2-2026-180-199": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -469,10 +524,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
   },
+  "ethereum-above-2200-on-october-16-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
   "ethereum-above-2300-on-october-15-2026": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "ethereum-above-2300-on-october-16-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
   },
   "ethereum-above-2400-on-october-12-2026": {
     "outcome": 1,
@@ -488,6 +553,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T16:59:39Z"
+  },
+  "ethereum-above-2500-on-october-16-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
   },
   "ethereum-above-2500-on-october-7-2026": {
     "outcome": 1,
@@ -734,6 +804,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "sea-fro-sas-2026-10-16-fro": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
+  "swe-bro-dju-2026-10-16-dju": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
   "swe-mal-kal-2026-10-12-mal": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -753,6 +833,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "tur-cf-riz-2026-10-16-cf": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
   },
   "ucl-ars-lil-2026-10-13-ars": {
     "outcome": 1,
@@ -1224,6 +1309,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
   },
+  "will-bitcoin-dip-to-80k-on-october-16-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
   "will-bitcoin-dip-to-80k-on-october-9-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1243,6 +1333,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
+  },
+  "will-bitcoin-dip-to-81k-on-october-16-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
   },
   "will-bitcoin-dip-to-81k-on-october-7-2026": {
     "outcome": 0,
@@ -1499,6 +1594,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "will-russia-target-kyiv-on-october-16-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
+  },
   "will-save-the-children-win-the-nobel-peace-prize-in-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1558,6 +1658,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "will-wti-reach-100-by-october-12-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T10:49:12Z"
   },
   "will-wti-reach-100-in-september-2026-from-september-18": {
     "outcome": 0,
