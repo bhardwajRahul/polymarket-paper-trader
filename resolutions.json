@@ -4,6 +4,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
   },
+  "atp-tournament-winner-2026-135005-competitor-57163": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T14:16:23Z"
+  },
   "bitcoin-above-78k-on-october-16-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -483,6 +488,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
+  },
+  "epl-eve-che-2026-10-17-che": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T14:16:23Z"
+  },
+  "epl-eve-che-2026-10-17-eve": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-17T14:16:23Z"
   },
   "epl-hul-eve-2026-10-11-eve": {
     "outcome": 0,
