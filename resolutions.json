@@ -34,6 +34,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "bitcoin-above-80k-on-october-17-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "bitcoin-above-80k-on-october-8-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -69,6 +74,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "bitcoin-above-82k-on-october-17-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "bitcoin-above-82k-on-october-2-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -103,6 +113,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
+  },
+  "bitcoin-above-84k-on-october-17-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
   },
   "bitcoin-above-84k-on-october-3-2026": {
     "outcome": 1,
@@ -179,6 +194,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
   },
+  "bra-cam-cor-2026-10-17-cam": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "bra-cre-gre-2026-10-07-cre": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -229,6 +249,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T16:59:39Z"
   },
+  "chi-hai-tie-2026-10-17-hai": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "chi-hen-jin-2026-10-16-hen": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -264,6 +289,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "elc-wat-cha-2026-10-17-wat": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "elon-musk-of-tweets-october-1-october-3-2026-0-39": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -298,6 +328,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
+  },
+  "elon-musk-of-tweets-october-15-october-17-2026-115-139": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
   },
   "elon-musk-of-tweets-october-2-october-9-2026-160-179": {
     "outcome": 0,
@@ -469,6 +504,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "epl-bre-liv-2026-10-17-liv": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "epl-che-bou-2026-10-10-bou": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -499,6 +539,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T14:16:23Z"
   },
+  "epl-ful-hul-2026-10-17-ful": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "epl-hul-eve-2026-10-11-eve": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -524,10 +569,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "epl-mac-ips-2026-10-17-ips": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "epl-mac-ips-2026-10-17-mac": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "epl-mun-tot-2026-10-10-mun": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "epl-new-ast-2026-10-17-ast": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
   },
   "epl-sun-bri-2026-10-10-bri": {
     "outcome": 1,
@@ -644,10 +704,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "fl1-lil-sbr-2026-10-17-lil": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "fl1-psg-lmf-2026-10-10-psg": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "fl1-str-psg-2026-10-17-psg": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
   },
   "fr2-asn-gui-2026-10-09-asn": {
     "outcome": 1,
@@ -714,10 +784,30 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "lal-bet-bar-2026-10-17-bar": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "lal-bet-bar-2026-10-17-bet": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "lal-bet-bar-2026-10-17-btts": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "lal-bet-osa-2026-10-11-bet": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
+  },
+  "lal-esp-mad-2026-10-17-mad": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
   },
   "lal-rea-vil-2026-10-10-rea": {
     "outcome": 1,
@@ -754,6 +844,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "mls-min-stl-2026-10-17-stl": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "mls-nyr-tor-2026-10-17-nyr": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "next-fable-model-5pt2-released-by-october-10-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -763,6 +863,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
+  },
+  "next-fable-model-5pt2-released-by-october-17-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
   },
   "nfl-ten-bal-2026-10-04-2plus-td-chris-moore": {
     "outcome": 0,
@@ -809,6 +914,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T20:07:34Z"
   },
+  "sea-bol-int-2026-10-17-int": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "sea-cag-juv-2026-10-11-cag": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -823,6 +933,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
+  },
+  "sea-rom-gen-2026-10-17-rom": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "sea-ven-nap-2026-10-17-nap": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
   },
   "swe-bro-dju-2026-10-16-dju": {
     "outcome": 1,
@@ -1239,6 +1359,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
   },
+  "us-x-iran-ceasefire-continues-through-october-17": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "us-x-iran-ceasefire-continues-through-october-7": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1524,6 +1649,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-09T13:22:09Z"
   },
+  "will-ken-sim-win-the-2026-vancouver-mayoral-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1554,6 +1684,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T15:46:27Z"
   },
+  "will-mrbeast-gamings-next-video-get-55-million-or-more-views-in-week-1-20261010": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
+  },
   "will-mykola-kuleba-win-the-nobel-peace-prize-in-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1578,6 +1713,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-pete-fry-win-the-2026-vancouver-mayoral-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
   },
   "will-raphael-glucksman-win-the-socialist-party-nomination-to-contest-the-2027-french-presidential-elections-20260710182042071": {
     "outcome": 1,
@@ -1688,6 +1828,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-zac-de-vries-win-the-2026-saanich-mayoral-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-18T11:11:42Z"
   },
   "wwcquefa-cro-ice-2026-10-09-cro": {
     "outcome": 0,
