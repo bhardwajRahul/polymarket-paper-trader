@@ -59,6 +59,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
   },
+  "bitcoin-above-80k-on-october-21-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
   "bitcoin-above-80k-on-october-8-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -119,6 +124,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
   },
+  "bitcoin-above-82k-on-october-21-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
   "bitcoin-above-82k-on-october-7-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -158,6 +168,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T17:44:39Z"
+  },
+  "bitcoin-above-84k-on-october-21-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
   },
   "bitcoin-above-84k-on-october-3-2026": {
     "outcome": 1,
@@ -413,6 +428,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
+  },
+  "elon-musk-of-tweets-october-19-october-21-2026-40-64": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "elon-musk-of-tweets-october-19-october-21-2026-65-89": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
   },
   "elon-musk-of-tweets-october-2-october-9-2026-160-179": {
     "outcome": 0,
@@ -769,6 +794,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "ethereum-above-2500-on-october-21-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
   "ethereum-above-2500-on-october-7-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -964,6 +994,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-20T11:42:57Z"
   },
+  "lal-lev-bil-2026-09-16-bil": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "lal-lev-bil-2026-09-16-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "lal-lev-bil-2026-09-16-lev": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
   "lal-rea-sev-2026-10-18-draw": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1009,6 +1054,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "mls-fcc-dcu-2026-09-05-dcu": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "mls-fcc-dcu-2026-09-05-fcc": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
   "mls-min-stl-2026-10-17-stl": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1033,6 +1088,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "next-fable-model-5pt2-released-by-october-21-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
   },
   "nfl-ten-bal-2026-10-04-2plus-td-chris-moore": {
     "outcome": 0,
@@ -1204,6 +1264,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
   },
+  "ucl-ast-vf-2026-10-21-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-ast-vf-2026-10-21-vf": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
   "ucl-atm-mnu-2026-10-13-atm": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1219,6 +1289,26 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
   },
+  "ucl-bay-ars-2026-10-21-ars": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-bay-ars-2026-10-21-bay": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-bay-ars-2026-10-21-draw": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-bet-fey-2026-10-21-bet": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
   "ucl-bet-por-2026-10-14-bet": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1233,6 +1323,21 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
+  },
+  "ucl-bru-rcl-2026-10-21-bru": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-com-mnu-2026-10-21-com": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-com-mnu-2026-10-21-mnu": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
   },
   "ucl-fen-slp-2026-10-20-fen": {
     "outcome": 0,
@@ -1268,6 +1373,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-int-shd-2026-10-21-int": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-lil-gal-2026-10-21-lil": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
   },
   "ucl-lin2-liv-2026-10-14-lin2": {
     "outcome": 0,
@@ -1349,6 +1464,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
   },
+  "ucl-rma-rbl-2026-10-21-rbl": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-rma-rbl-2026-10-21-rma": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
+  },
   "ucl-rom-rma-2026-10-14-rma": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1388,6 +1513,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-spo-lin2-2026-10-21-lin2": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
   },
   "ucl-stu-atm-2026-10-20-atm": {
     "outcome": 0,
@@ -1838,6 +1968,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
+  },
+  "will-bitcoin-reach-87k-on-october-21-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-22T11:57:57Z"
   },
   "will-bitcoin-reach-87pt5k-in-september-2026": {
     "outcome": 0,
