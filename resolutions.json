@@ -2364,6 +2364,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T15:46:06Z"
   },
+  "will-the-bank-of-russia-decrease-the-key-rate-after-the-october-meeting-20260724021538831": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-23T15:29:38Z"
+  },
+  "will-the-bank-of-russia-make-no-change-to-the-key-rate-after-the-october-meeting-20260724021538832": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-23T15:29:38Z"
+  },
   "will-the-next-google-gemini-pro-model-be-released-by-october-15-2026": {
     "outcome": 0,
     "resolution_source": "uma",
