@@ -69,6 +69,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-23T11:43:51Z"
   },
+  "bitcoin-above-80k-on-october-23-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-24T11:06:28Z"
+  },
   "bitcoin-above-80k-on-october-8-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -138,6 +143,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-23T11:43:51Z"
+  },
+  "bitcoin-above-82k-on-october-23-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-24T11:06:28Z"
   },
   "bitcoin-above-82k-on-october-7-2026": {
     "outcome": 1,
@@ -448,6 +458,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-23T11:43:51Z"
+  },
+  "elon-musk-of-tweets-october-16-october-23-2026-260-279": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-24T11:06:28Z"
+  },
+  "elon-musk-of-tweets-october-16-october-23-2026-280-299": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-24T11:06:28Z"
   },
   "elon-musk-of-tweets-october-17-october-19-2026-40-64": {
     "outcome": 1,
@@ -1114,6 +1134,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "next-astra-model-6pt1-released-by-october-23-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-24T11:06:28Z"
+  },
   "next-fable-model-5pt2-released-by-october-10-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1243,6 +1268,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "sea-tor-mon-2026-10-23-tor": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-24T11:06:28Z"
   },
   "sea-udi-lec-2026-10-18-udi": {
     "outcome": 0,
@@ -2318,6 +2348,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
+  },
+  "will-russia-target-kyiv-on-october-17-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-24T11:06:28Z"
   },
   "will-russia-target-kyiv-on-october-18-2026": {
     "outcome": 1,
