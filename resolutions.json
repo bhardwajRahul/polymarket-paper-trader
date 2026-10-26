@@ -79,6 +79,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
   },
+  "bitcoin-above-80k-on-october-26-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T17:17:41Z"
+  },
   "bitcoin-above-80k-on-october-8-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -153,6 +158,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-24T11:06:28Z"
+  },
+  "bitcoin-above-82k-on-october-26-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T17:17:41Z"
   },
   "bitcoin-above-82k-on-october-7-2026": {
     "outcome": 1,
@@ -883,6 +893,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
+  },
+  "ethereum-above-2300-on-october-26-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T17:17:41Z"
   },
   "ethereum-above-2400-on-october-12-2026": {
     "outcome": 1,
