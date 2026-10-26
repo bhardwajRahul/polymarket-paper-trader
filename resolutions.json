@@ -319,6 +319,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "bun-fre-bay-2026-10-25-bay": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
   "bun-fre-s04-2026-10-11-fre": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -739,6 +744,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "epl-hul-bre-2026-10-25-bre": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
   "epl-hul-eve-2026-10-11-eve": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -753,6 +763,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
+  },
+  "epl-liv-bri-2026-10-25-bri": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "epl-liv-bri-2026-10-25-liv": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "epl-liv-mac-2026-10-11-draw": {
     "outcome": 0,
@@ -779,6 +799,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "epl-mun-bou-2026-10-25-mun": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
   "epl-mun-tot-2026-10-10-mun": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -803,6 +828,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "epl-sun-lee-2026-10-25-lee": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "epl-sun-lee-2026-10-25-sun": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "epl-tot-cov-2026-10-19-cov": {
     "outcome": 0,
@@ -858,6 +893,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T17:44:39Z"
+  },
+  "ethereum-above-2400-on-october-22-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "ethereum-above-2400-on-october-9-2026": {
     "outcome": 1,
@@ -1049,6 +1089,26 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "lal-bar-rea-2026-10-25-bar": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "lal-bar-rea-2026-10-25-btts": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "lal-bar-rea-2026-10-25-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "lal-bar-rea-2026-10-25-rea": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
   "lal-bet-bar-2026-10-17-bar": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1068,6 +1128,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
+  },
+  "lal-cel-bet-2026-10-25-bet": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "lal-esp-mad-2026-10-17-mad": {
     "outcome": 1,
@@ -1323,6 +1388,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T14:58:02Z"
+  },
+  "sea-udi-mil-2026-10-25-mil": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "sea-ven-nap-2026-10-17-nap": {
     "outcome": 0,
@@ -1929,6 +1999,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
   },
+  "us-x-iran-ceasefire-continues-through-october-22": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
   "us-x-iran-ceasefire-continues-through-october-7": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1958,6 +2033,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-aleksandar-vucic-united-serbia-win-the-most-seats-in-the-2026-serbian-parliamentary-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "will-annual-inflation-be-3pt5-in-september-2026": {
     "outcome": 0,
@@ -1993,6 +2073,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
+  },
+  "will-bitcoin-dip-to-78k-october-19-25-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "will-bitcoin-dip-to-78k-october-5-11-2026": {
     "outcome": 0,
@@ -2119,6 +2204,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
   },
+  "will-bitcoin-reach-86k-october-19-25-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
   "will-bitcoin-reach-86k-october-5-11-2026-from-october-6": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2173,6 +2263,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-ethereum-dip-to-2200-october-19-25-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "will-ethereum-dip-to-2300-october-12-18-2026": {
     "outcome": 0,
@@ -2244,10 +2339,50 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "will-flavio-bolsonaro-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-abroad": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "will-flavio-bolsonaro-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amapa": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "will-flavio-bolsonaro-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amazonas": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "will-flavio-bolsonaro-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-para": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-48": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-812": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
   "will-flvio-bolsonaro-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "will-flvio-bolsonaro-win-the-first-round-of-the-2026-brazilian-presidential-election-by-510": {
     "outcome": 0,
@@ -2304,6 +2439,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
   "will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2313,6 +2453,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "will-luiz-incio-lula-da-silva-win-the-first-round-of-the-2026-brazilian-presidential-election-by-510-971": {
     "outcome": 0,
@@ -2328,6 +2473,26 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-lula-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-abroad": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "will-lula-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amapa": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "will-lula-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amazonas": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "will-lula-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-para": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "will-monthly-inflation-increase-by-0pt5-in-september-2026": {
     "outcome": 0,
@@ -2434,6 +2599,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "will-student-list-students-win-win-the-most-seats-in-the-2026-serbian-parliamentary-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
+  },
   "will-sudans-emergency-response-rooms-win-the-nobel-peace-prize-in-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2488,6 +2658,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "will-trump-endorse-flavio-bolsonaro-for-president-of-brazil-20260803210809714": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-26T13:09:04Z"
   },
   "will-ukraine-target-moscow-on-october-10-2026": {
     "outcome": 1,
