@@ -544,6 +544,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-10T12:36:40Z"
   },
+  "elon-musk-of-tweets-october-20-october-27-2026-300-319": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "elon-musk-of-tweets-october-24-october-26-2026-65-89": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "elon-musk-of-tweets-october-24-october-26-2026-90-114": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
   "elon-musk-of-tweets-october-5-october-7-2026-0-39": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1024,6 +1039,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "fl1-psg-lyo-2026-10-25-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "fl1-psg-lyo-2026-10-25-psg": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
   "fl1-str-psg-2026-10-17-psg": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1314,6 +1339,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "por-cds-ben-2026-10-26-ben": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
   "por-csm-por-2026-10-10-por": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1443,6 +1473,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
+  },
+  "tur-gal-fen-2026-10-26-gal": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
   },
   "ucl-ars-lil-2026-10-13-ars": {
     "outcome": 1,
@@ -2054,6 +2089,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
   },
+  "will-alexia-putellas-win-the-2026-womens-ballon-dor": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
   "will-annual-inflation-be-3pt5-in-september-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2098,6 +2138,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
+  },
+  "will-bitcoin-dip-to-78k-on-october-26-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
   },
   "will-bitcoin-dip-to-79k-on-october-15-2026": {
     "outcome": 0,
@@ -2243,6 +2288,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-brad-bradford-win-the-2026-toronto-mayoral-election-415": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
   },
   "will-ciro-gomes-win-the-2026-cear-gubernatorial-election": {
     "outcome": 0,
@@ -2424,6 +2474,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "will-harry-kane-win-the-2026-ballon-dor": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "will-iliana-iotova-win-the-2026-bulgarian-presidential-first-round-by-40": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "will-israel-election-happen-as-scheduled-20260720204824362": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
   "will-jernimo-rodrigues-win-the-2026-bahia-gubernatorial-election": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2453,6 +2518,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "will-kylian-mbapp-win-the-2026-ballon-dor": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "will-lamine-yamal-win-the-2026-ballon-dor": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
   },
   "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4": {
     "outcome": 1,
@@ -2509,6 +2584,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
   },
+  "will-mark-sutcliffe-win-the-2026-ottawa-mayoral-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
+  },
   "will-monthly-inflation-increase-by-0pt5-in-september-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2528,6 +2608,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
+  },
+  "will-olivia-chow-win-the-2026-toronto-mayoral-election-465": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-27T12:17:20Z"
   },
   "will-other-mommy-opening-weekend-box-office-be-between-21m-and-24m": {
     "outcome": 0,
