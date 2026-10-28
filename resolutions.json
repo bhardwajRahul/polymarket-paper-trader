@@ -29,6 +29,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T16:21:39Z"
   },
+  "bitcoin-above-78k-on-october-28-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-28T16:59:06Z"
+  },
   "bitcoin-above-80k-on-october-10-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -93,6 +98,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T16:21:39Z"
+  },
+  "bitcoin-above-80k-on-october-28-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-28T16:59:06Z"
   },
   "bitcoin-above-80k-on-october-8-2026": {
     "outcome": 1,
@@ -173,6 +183,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T17:17:41Z"
+  },
+  "bitcoin-above-82k-on-october-28-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-28T16:59:06Z"
   },
   "bitcoin-above-82k-on-october-7-2026": {
     "outcome": 1,
@@ -944,6 +959,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T16:21:39Z"
   },
+  "ethereum-above-2300-on-october-28-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-28T16:59:06Z"
+  },
   "ethereum-above-2400-on-october-12-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -958,6 +978,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
+  },
+  "ethereum-above-2400-on-october-28-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-28T16:59:06Z"
   },
   "ethereum-above-2400-on-october-9-2026": {
     "outcome": 1,
@@ -2809,6 +2834,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T14:58:02Z"
   },
+  "will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-28T16:59:06Z"
+  },
+  "will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-28T16:59:06Z"
+  },
   "will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-october-decision": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2838,6 +2873,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
+  },
+  "will-the-price-of-bitcoin-be-between-80000-82000-on-october-28-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-28T16:59:06Z"
   },
   "will-the-price-of-bitcoin-be-between-82000-84000-on-october-9-2026": {
     "outcome": 1,
