@@ -404,10 +404,40 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
   },
+  "dfb-bay-fcm-2026-10-28-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "dfb-scf-wob-2026-10-28-scf": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "dfb-scp-stu-2026-10-28-stu": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
   "efl-fle-ars-2026-10-27-ars": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-28T13:00:11Z"
+  },
+  "efl-ful-cry-2026-10-28-ful": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "efl-liv-cfc-2026-10-28-liv": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "efl-mnc-bha-2026-10-28-mnc": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
   },
   "elc-bbr-car-2026-10-10-car": {
     "outcome": 0,
@@ -598,6 +628,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "elon-musk-of-tweets-october-26-october-28-2026-115-139": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "elon-musk-of-tweets-october-26-october-28-2026-90-114": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
   },
   "elon-musk-of-tweets-october-5-october-7-2026-0-39": {
     "outcome": 0,
@@ -1464,6 +1504,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "sea-gen-juv-2026-10-28-juv": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
   "sea-juv-laz-2026-10-18-juv": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1474,6 +1519,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
   },
+  "sea-mil-bol-2026-10-28-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "sea-mil-bol-2026-10-28-mil": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
   "sea-mon-cag-2026-10-19-cag": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1483,6 +1538,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-20T11:42:57Z"
+  },
+  "sea-mon-nap-2026-10-28-nap": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
   },
   "sea-par-tor-2026-10-19-tor": {
     "outcome": 1,
@@ -1529,10 +1589,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
   },
+  "sea-ven-int-2026-10-28-int": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "sea-ven-int-2026-10-28-ven": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
   "sea-ven-nap-2026-10-17-nap": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "svk1-kos-dac-2026-08-09-dac": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
   },
   "swe-bro-dju-2026-10-16-dju": {
     "outcome": 1,
@@ -2239,6 +2314,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
   },
+  "will-bitcoin-dip-to-78k-on-october-28-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
   "will-bitcoin-dip-to-79k-on-october-15-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2719,6 +2799,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
   },
+  "will-no-one-dissent-the-october-fed-decision-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
   "will-olivia-chow-win-the-2026-toronto-mayoral-election-465": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2859,6 +2944,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-23T15:29:38Z"
   },
+  "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
+  },
   "will-the-next-fable-model-5pt2-be-released-on-october-27-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2888,6 +2978,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-29T13:07:20Z"
   },
   "will-trump-endorse-flavio-bolsonaro-for-president-of-brazil-20260803210809714": {
     "outcome": 0,
