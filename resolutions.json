@@ -14,6 +14,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T14:16:23Z"
   },
+  "bitcoin-above-76k-on-october-30-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-30T17:12:07Z"
+  },
   "bitcoin-above-78k-on-october-16-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -38,6 +43,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T17:21:59Z"
+  },
+  "bitcoin-above-78k-on-october-30-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-30T17:12:07Z"
   },
   "bitcoin-above-80k-on-october-10-2026": {
     "outcome": 1,
@@ -639,6 +649,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-30T13:00:23Z"
   },
+  "elon-musk-of-tweets-october-23-october-30-2026-340-359": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-30T17:12:07Z"
+  },
+  "elon-musk-of-tweets-october-23-october-30-2026-360-379": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-30T17:12:07Z"
+  },
   "elon-musk-of-tweets-october-24-october-26-2026-65-89": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -994,6 +1014,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "ethereum-above-2200-on-october-30-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-30T17:12:07Z"
+  },
   "ethereum-above-2300-on-october-15-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1043,6 +1068,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-28T16:59:06Z"
+  },
+  "ethereum-above-2400-on-october-30-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-30T17:12:07Z"
   },
   "ethereum-above-2400-on-october-9-2026": {
     "outcome": 1,
@@ -3073,6 +3103,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T17:21:59Z"
+  },
+  "will-vitality-win-the-pgl-masters-bucharest-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-10-30T17:12:07Z"
   },
   "will-whalefall-opening-weekend-box-office-be-less-than-8m": {
     "outcome": 1,
