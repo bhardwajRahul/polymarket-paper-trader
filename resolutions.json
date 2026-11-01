@@ -364,6 +364,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "bun-bay-dor-2026-10-31-bay": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "bun-bay-dor-2026-10-31-draw": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "bun-dor-wer-2026-10-09-dor": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -393,6 +403,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T16:59:39Z"
+  },
+  "bun-moe-scp-2026-10-31-moe": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "chi-hai-tie-2026-10-17-hai": {
     "outcome": 0,
@@ -699,6 +714,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-31T16:22:36Z"
   },
+  "elon-musk-of-tweets-october-29-october-31-2026-165-189": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "elon-musk-of-tweets-october-5-october-7-2026-0-39": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -849,6 +869,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "epl-ast-ful-2026-10-31-ast": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "epl-ast-mac-2026-10-24-mac": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -954,6 +979,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "epl-mac-bri-2026-10-31-mac": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "epl-mac-ips-2026-10-17-ips": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1023,6 +1053,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-20T11:42:57Z"
+  },
+  "epl-tot-cry-2026-10-31-tot": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "es2-ovi-eib-2026-10-12-eib": {
     "outcome": 0,
@@ -1229,6 +1264,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-10T12:36:40Z"
   },
+  "gavin-newsom-democratic-nomination-odds-leader-on-october-31": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "gemini-4pt0-released-by-october-10-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1254,10 +1294,30 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "ilhan-omar-federally-charged-by-october-31-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "iran-charges-hormuz-fees-by-september-30": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "iran-full-airspace-closure-by-october-31-2026-copy": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "israel-election-any-coalition-wins-a-majority": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "israel-election-will-likud-lose-seats": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "israel-military-action-against-lebanon-on-october-15": {
     "outcome": 1,
@@ -1284,10 +1344,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-31T12:38:00Z"
   },
+  "jon-ossoff-democratic-nomination-odds-leader-on-october-31": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "lal-ala-mad-2026-10-10-mad": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "lal-bar-ala-2026-10-31-ala": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "lal-bar-ala-2026-10-31-bar": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "lal-bar-get-2026-10-10-bar": {
     "outcome": 1,
@@ -1454,6 +1529,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-24T11:06:28Z"
   },
+  "next-astra-model-6pt1-released-by-october-31-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "next-fable-model-5pt2-released-by-october-10-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1498,6 +1578,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-31T12:38:00Z"
+  },
+  "next-fable-model-5pt2-released-by-october-31-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "nfl-ten-bal-2026-10-04-2plus-td-chris-moore": {
     "outcome": 0,
@@ -1644,6 +1729,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T13:07:20Z"
   },
+  "sea-mil-int-2026-10-31-mil": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "sea-mon-cag-2026-10-19-cag": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1704,6 +1794,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
   },
+  "sea-udi-rom-2026-10-31-rom": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "sea-ven-int-2026-10-28-int": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1758,6 +1853,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "tur-koc-riz-2026-10-31-koc": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "ucl-ars-lil-2026-10-13-ars": {
     "outcome": 1,
@@ -2304,10 +2404,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "us-iran-hormuz-agreement-by-october-31": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "us-iran-hormuz-agreement-by-september-30": {
     "outcome": 0,
@@ -2338,6 +2448,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-28T13:00:11Z"
+  },
+  "us-x-iran-ceasefire-continues-through-october-28": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "us-x-iran-ceasefire-continues-through-october-7": {
     "outcome": 1,
@@ -2404,6 +2519,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-31T12:38:00Z"
   },
+  "will-atlanta-dream-win-the-2026-wnba-finals-857": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "will-augusto-cury-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2413,6 +2533,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-bitcoin-dip-to-72pt5k-in-october-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-bitcoin-dip-to-75k-in-october-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "will-bitcoin-dip-to-77pt5k-in-october-2026": {
     "outcome": 1,
@@ -2554,6 +2684,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "will-bitcoin-reach-82pt5k-in-october-2026-from-october-22": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "will-bitcoin-reach-84k-october-12-18-2026-from-october-14": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2568,6 +2703,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
+  },
+  "will-bitcoin-reach-85k-in-october-2026-from-october-7": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "will-bitcoin-reach-86k-october-19-25-2026": {
     "outcome": 0,
@@ -2634,10 +2774,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "will-ethereum-dip-to-2000-in-october-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-ethereum-dip-to-2100-in-october-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "will-ethereum-dip-to-2200-in-october-2026": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-30T13:00:23Z"
+  },
+  "will-ethereum-dip-to-2200-in-october-2026-from-october-30": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "will-ethereum-dip-to-2200-october-19-25-2026": {
     "outcome": 0,
@@ -2673,6 +2828,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-ethereum-reach-2400-in-october-2026-from-october-24": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-ethereum-reach-2500-in-october-2026-from-october-22": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "will-ethereum-reach-2600-october-12-18-2026": {
     "outcome": 0,
@@ -2769,6 +2934,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "will-grand-theft-auto-vi-launch-trailer-get-between-40-and-60-million-views-on-week-1": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2859,6 +3029,31 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
   },
+  "will-likud-win-20-24-seats-in-the-2026-israeli-legislative-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-likud-win-25-29-seats-in-the-2026-israeli-legislative-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-likud-win-30-34-seats-in-the-2026-israeli-legislative-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2924,6 +3119,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T15:46:27Z"
   },
+  "will-moonshot-have-the-best-chinese-ai-model-at-the-end-of-october-2026-20260811194840881": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "will-mrbeast-gamings-next-video-get-55-million-or-more-views-in-week-1-20261010": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2979,6 +3179,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "will-predictfun-launch-a-token-by-october-31-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "will-raphael-glucksman-win-the-socialist-party-nomination-to-contest-the-2027-french-presidential-elections-20260710182042071": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3009,6 +3214,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
   },
+  "will-russia-capture-svitle-by-october-31-20260805161409631": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "will-russia-target-kyiv-on-october-12-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3038,6 +3248,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T17:07:54Z"
+  },
+  "will-solana-dip-to-90-in-october-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "will-strc-hit-100-by-september-30-20260618001621118": {
     "outcome": 0,
@@ -3134,6 +3349,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T13:07:20Z"
   },
+  "will-there-be-no-next-fable-model-5pt2-release-by-october-31-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-together-win-the-third-most-seats-israel-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
   "will-trump-endorse-flavio-bolsonaro-for-president-of-brazil-20260803210809714": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3188,6 +3413,26 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "will-xiaomi-have-the-best-chinese-ai-model-at-the-end-of-october-2026-20260811194840884": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-xrp-dip-to-1pt2-in-october-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-yashar-win-the-most-seats-in-the-2026-israeli-legislative-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-yashar-win-the-second-most-seats-israel-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-01T13:29:42Z"
   },
   "will-zac-de-vries-win-the-2026-saanich-mayoral-election": {
     "outcome": 0,
