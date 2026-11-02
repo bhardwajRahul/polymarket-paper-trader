@@ -1664,6 +1664,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-31T16:22:36Z"
   },
+  "saudi-houthi-ceasefire-agreement-announced-by-october-31": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-02T16:01:07Z"
+  },
   "saudi-oil-pipeline-east-west-restarts-by-september-30": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2554,10 +2559,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
   },
+  "will-bitcoin-dip-to-74k-october-26-november-1-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-02T16:01:07Z"
+  },
   "will-bitcoin-dip-to-75k-in-october-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-bitcoin-dip-to-76k-october-26-november-1-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-02T16:01:07Z"
   },
   "will-bitcoin-dip-to-77pt5k-in-october-2026": {
     "outcome": 1,
@@ -2699,6 +2714,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "will-bitcoin-reach-82k-october-26-november-1-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-02T16:01:07Z"
+  },
   "will-bitcoin-reach-82pt5k-in-october-2026-from-october-22": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2799,6 +2819,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
   },
+  "will-ethereum-dip-to-2100-october-26-november-1-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-02T16:01:07Z"
+  },
   "will-ethereum-dip-to-2200-in-october-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2848,6 +2873,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-ethereum-reach-2400-october-26-november-1-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-02T16:01:07Z"
   },
   "will-ethereum-reach-2500-in-october-2026-from-october-22": {
     "outcome": 0,
@@ -2998,6 +3028,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-28T13:00:11Z"
+  },
+  "will-iliana-iotova-win-the-next-bulgarian-presidential-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-02T16:01:07Z"
   },
   "will-israel-election-happen-as-scheduled-20260720204824362": {
     "outcome": 1,
@@ -3153,6 +3188,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
+  },
+  "will-ndrey-gyurov-win-the-next-bulgarian-presidential-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-02T16:01:07Z"
   },
   "will-no-one-dissent-the-october-fed-decision-2026": {
     "outcome": 0,
