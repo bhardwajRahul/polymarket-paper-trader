@@ -1014,6 +1014,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "epl-new-eve-2026-11-02-new": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-03T14:21:15Z"
+  },
   "epl-not-ars-2026-10-18-ars": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1608,6 +1613,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-28T13:00:11Z"
+  },
+  "no-hormuz-agreement-by-nov-2": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-03T14:21:15Z"
   },
   "nor-lil-mol-2026-10-11-lil": {
     "outcome": 0,
@@ -2424,6 +2434,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "us-announces-end-of-iranian-blockade-by-november-2-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-03T14:21:15Z"
+  },
   "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2433,6 +2448,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "us-iran-ceasefire-continues-through-the-midterms": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-03T14:21:15Z"
+  },
+  "us-iran-hormuz-agreement-by-november-2": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-03T14:21:15Z"
   },
   "us-iran-hormuz-agreement-by-october-31": {
     "outcome": 0,
@@ -2499,6 +2524,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "will-1win-launch-a-token-by-october-31-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-03T14:21:15Z"
+  },
   "will-acm-neto-win-the-2026-bahia-gubernatorial-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2548,6 +2578,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-bernie-endorse-james-talarico-for-tx-sen-by-nov-2-2026-et": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-03T14:21:15Z"
   },
   "will-bia-kicis-win-the-second-most-votes-in-the-2026-federal-district-senate-election": {
     "outcome": 1,
