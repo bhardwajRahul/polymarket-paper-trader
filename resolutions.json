@@ -1,4 +1,19 @@
 {
+  "2026-balance-of-power-d-senate-d-house-949": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T18:22:32Z"
+  },
+  "2026-balance-of-power-r-senate-d-house-444": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T18:22:32Z"
+  },
+  "2026-balance-of-power-r-senate-r-house-537": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T18:22:32Z"
+  },
   "arg-cah-gim-2026-10-15-cah": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -28,6 +43,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-31T16:22:36Z"
+  },
+  "bitcoin-above-78k-on-november-4-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T18:22:32Z"
   },
   "bitcoin-above-78k-on-october-16-2026": {
     "outcome": 1,
@@ -63,6 +83,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-31T16:22:36Z"
+  },
+  "bitcoin-above-80k-on-november-4-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T18:22:32Z"
   },
   "bitcoin-above-80k-on-october-10-2026": {
     "outcome": 1,
