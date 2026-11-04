@@ -1989,6 +1989,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-22T11:57:57Z"
   },
+  "ucl-fcb-ast-2026-11-03-fcb": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
   "ucl-fen-slp-2026-10-20-fen": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2078,6 +2083,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
+  },
+  "ucl-mnu-rom-2026-11-03-mnu": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "ucl-mnu-rom-2026-11-03-rom": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
   },
   "ucl-nap-bog-2026-10-20-bog": {
     "outcome": 0,
@@ -2193,6 +2208,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-vil-psg-2026-11-03-psg": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
   },
   "uel-bou-mil1-2026-10-22-bou": {
     "outcome": 1,
@@ -2543,6 +2563,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "will-an-independent-win-the-nebraska-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
   },
   "will-annual-inflation-be-3pt5-in-september-2026": {
     "outcome": 0,
@@ -3399,6 +3424,101 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-23T15:29:38Z"
   },
+  "will-the-democrat-win-the-arizona-governor-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-florida-governor-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-florida-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-georgia-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-iowa-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-kansas-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-maine-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-michigan-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-minnesota-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-nevada-governor-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-new-hampshire-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-ohio-governor-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-ohio-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-south-carolina-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-texas-governor-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-texas-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democrats-win-the-wisconsin-governor-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
   "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3428,6 +3548,106 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-09T17:46:48Z"
+  },
+  "will-the-republican-party-control-the-house-after-the-2026-midterm-elections": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republican-win-the-arizona-governor-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-florida-governor-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-florida-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-iowa-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-kansas-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-maine-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-michigan-governor-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-michigan-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-minnesota-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-montana-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-nebraska-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-nevada-governor-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-ohio-governor-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-ohio-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-south-carolina-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-texas-governor-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-texas-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-republicans-win-the-wisconsin-governor-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-04T14:37:45Z"
   },
   "will-the-tesla-roadster-fly-for-1s": {
     "outcome": 1,
