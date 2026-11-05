@@ -14,6 +14,26 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-04T18:22:32Z"
   },
+  "2026-senate-map-r-ak-ia": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "2026-senate-map-r-ia": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "2026-senate-map-r-ia-ks": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "2026-senate-map-r-ks": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
   "arg-cah-gim-2026-10-15-cah": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -28,6 +48,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T14:16:23Z"
+  },
+  "bel1-kor-yrm-2026-10-23-kor": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
   },
   "bitcoin-above-76k-on-november-1-2026": {
     "outcome": 1,
@@ -1334,6 +1359,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "houthi-x-saudi-arabia-effective-ceasefire-by-october-31-20260916": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
   "ilhan-omar-federally-charged-by-october-31-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1914,6 +1944,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
   },
+  "ucl-aek1-rma-2026-11-04-aek1": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "ucl-aek1-rma-2026-11-04-rma": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
   "ucl-ars-lil-2026-10-13-ars": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2018,6 +2058,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "ucl-fen-liv-2026-11-04-liv": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
   },
   "ucl-fen-slp-2026-10-20-fen": {
     "outcome": 0,
@@ -2129,6 +2174,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
   },
+  "ucl-por-nap-2026-11-04-nap": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "ucl-por-nap-2026-11-04-por": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
   "ucl-psg-fcb-2026-10-20-btts": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2149,10 +2204,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
   },
+  "ucl-psv-bru-2026-11-04-psv": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "ucl-rbl-mnc-2026-11-04-mnc": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
   "ucl-rbl-psv-2026-10-13-rbl": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-rcl-com-2026-11-04-com": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
   },
   "ucl-rma-rbl-2026-10-21-rbl": {
     "outcome": 0,
@@ -2204,6 +2274,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
   },
+  "ucl-slp-ars-2026-11-04-ars": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "ucl-slp-ars-2026-11-04-exact-score-0-1": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "ucl-slp-ars-2026-11-04-slp": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
   "ucl-spo-lin2-2026-10-21-lin2": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2223,6 +2308,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
+  },
+  "ucl-vf-sf-2026-11-04-vf": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
   },
   "ucl-vil-nap-2026-10-13-nap": {
     "outcome": 0,
@@ -3699,6 +3789,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
   },
+  "will-trump-speak-to-ahmed-al-sharaa-by-october-31": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
+  },
   "will-ukraine-target-moscow-on-october-10-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3718,6 +3813,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-30T17:12:07Z"
+  },
+  "will-vivek-ramaswamy-pull-the-amy-acton-mother-ad": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-05T14:42:29Z"
   },
   "will-voter-turnout-in-the-second-round-of-the-2026-bulgaria-presidential-election-be-24-or-more-20261026154956939": {
     "outcome": 1,
