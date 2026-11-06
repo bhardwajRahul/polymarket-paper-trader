@@ -49,6 +49,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T14:16:23Z"
   },
+  "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
   "bel1-kor-yrm-2026-10-23-kor": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -484,6 +489,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "col-get-bha-2026-11-05-bha": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
   "col-haj-aja-2026-10-15-aja": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -493,6 +503,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-23T11:43:51Z"
+  },
+  "col-pao-csk-2026-11-05-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
   },
   "col1-cjf-dep-2026-08-10-dep": {
     "outcome": 0,
@@ -783,6 +798,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "elon-musk-of-tweets-october-30-november-6-2026-260-279": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
+  "elon-musk-of-tweets-october-30-november-6-2026-280-299": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
   },
   "elon-musk-of-tweets-october-5-october-7-2026-0-39": {
     "outcome": 0,
@@ -1679,6 +1704,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting-1786030375140": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
   "no-change-in-reserve-bank-of-new-zealands-interest-rates-at-the-october-2026-meeting-20260729164521634": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2344,6 +2374,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-04T14:37:45Z"
   },
+  "uel-az-juv-2026-11-05-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
+  "uel-az-juv-2026-11-05-juv": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
+  "uel-ben-lep-2026-11-05-ben": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
   "uel-bou-mil1-2026-10-22-bou": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2354,10 +2399,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-23T11:43:51Z"
   },
+  "uel-cel-bes-2026-11-05-bes": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
+  "uel-cry-hof-2026-11-05-cry": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
   "uel-din-and-2026-10-15-din": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-hbs-ofi-2026-11-05-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
   },
   "uel-hof-bes-2026-10-15-bes": {
     "outcome": 1,
@@ -2384,6 +2444,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-23T11:43:51Z"
   },
+  "uel-lev-olm-2026-11-05-lev": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
   "uel-lyo-cry-2026-10-15-cry": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2394,6 +2459,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
   },
+  "uel-mil1-ftc-2026-11-05-ftc": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
+  "uel-mil1-ftc-2026-11-05-mil1": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
+  },
   "uel-rbs-mil1-2026-10-15-draw": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2403,6 +2478,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-spp-bou-2026-11-05-bou": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
   },
   "uel-ut-sun-2026-10-15-sun": {
     "outcome": 1,
@@ -3568,6 +3648,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-04T14:37:45Z"
+  },
+  "will-the-democratic-party-win-the-nc-13-house-seat": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-06T14:20:13Z"
   },
   "will-the-democrats-win-the-florida-governor-race-in-2026": {
     "outcome": 0,
