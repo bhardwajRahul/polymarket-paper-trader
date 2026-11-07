@@ -1874,6 +1874,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
   },
+  "sea-cag-fro-2026-11-07-cag": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T16:41:05Z"
+  },
+  "sea-cag-fro-2026-11-07-fro": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T16:41:05Z"
+  },
   "sea-cag-juv-2026-10-11-cag": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1983,6 +1993,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-28T13:00:11Z"
+  },
+  "sea-tor-lec-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T16:41:05Z"
   },
   "sea-tor-mon-2026-10-23-tor": {
     "outcome": 1,
