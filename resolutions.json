@@ -49,6 +49,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T14:16:23Z"
   },
+  "aut-scr-wac-2026-11-06-wac": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
   "bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -484,6 +489,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "bun-hsv-moe-2026-11-06-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
   "bun-koe-moe-2026-10-11-koe": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -824,6 +834,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-06T14:20:13Z"
   },
+  "elon-musk-of-tweets-october-30-november-6-2026-300-319": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
+  "elon-musk-of-tweets-october-30-november-6-2026-320-339": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
   "elon-musk-of-tweets-october-5-october-7-2026-0-39": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1034,6 +1054,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T14:16:23Z"
   },
+  "epl-eve-cov-2026-11-06-cov": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
+  "epl-eve-cov-2026-11-06-eve": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
+  "epl-eve-cov-2026-11-06-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
   "epl-ful-hul-2026-10-17-ful": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1168,6 +1203,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "ere-wii-zwo-2026-11-06-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
   },
   "es2-ovi-eib-2026-10-12-eib": {
     "outcome": 0,
@@ -1613,6 +1653,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
+  },
+  "lal-sev-ala-2026-11-06-draw": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
+  "lal-sev-ala-2026-11-06-sev": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
   },
   "military-action-against-saudi-oil-pipeline-east-west-by-october-15": {
     "outcome": 0,
@@ -2724,6 +2774,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "us-x-iran-ceasefire-continues-through-november-2": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
   "us-x-iran-ceasefire-continues-through-october-12": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2754,6 +2809,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
   },
+  "us-x-iran-ceasefire-continues-through-october-31-20260917": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
+  },
   "us-x-iran-ceasefire-continues-through-october-7": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2768,6 +2828,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "us-x-iran-effective-ceasefire-continues-through-november-8-20261103": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-07T13:07:55Z"
   },
   "us-x-yemen-ceasefire-continues-through-october-12": {
     "outcome": 1,
