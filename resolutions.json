@@ -69,6 +69,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-06T18:11:12Z"
   },
+  "bitcoin-above-74k-on-november-7-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "bitcoin-above-76k-on-november-1-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -78,6 +83,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-06T18:11:12Z"
+  },
+  "bitcoin-above-76k-on-november-7-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "bitcoin-above-76k-on-october-30-2026": {
     "outcome": 1,
@@ -499,10 +509,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T16:59:39Z"
   },
+  "bun-mai-bay-2026-11-07-bay": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "bun-moe-scp-2026-10-31-moe": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "bun-stu-wer-2026-11-07-stu": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "chi-hai-tie-2026-10-17-hai": {
     "outcome": 0,
@@ -594,6 +614,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "elc-bbr-whu-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "elc-bri-bbr-2026-10-13-bri": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -604,10 +629,35 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "elc-cha-she-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "elc-pne-sot-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "elc-wat-cha-2026-10-17-wat": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "elc-wat-mid-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "elon-musk-of-tweets-november-5-november-7-2026-115-139": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "elon-musk-of-tweets-november-5-november-7-2026-90-114": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "elon-musk-of-tweets-october-1-october-3-2026-0-39": {
     "outcome": 0,
@@ -984,6 +1034,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
   },
+  "epl-ars-hul-2026-11-07-ars": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "epl-ars-hul-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "epl-ars-hul-2026-11-07-hul": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "epl-ars-lee-2026-10-10-ars": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1073,6 +1138,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "epl-ful-new-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "epl-hul-bre-2026-10-25-bre": {
     "outcome": 0,
@@ -1164,6 +1234,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
   },
+  "epl-not-mac-2026-11-07-mac": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "epl-not-mac-2026-11-07-not": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "epl-sun-bri-2026-10-10-bri": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1208,6 +1288,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-07T13:07:55Z"
+  },
+  "es2-leg-alb-2026-11-07-leg": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "es2-ovi-eib-2026-10-12-eib": {
     "outcome": 0,
@@ -1389,6 +1474,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "fl1-aja-pfc-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "fl1-hac-psg-2026-10-30-psg": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1424,6 +1514,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
   },
+  "fl1-psg-tro-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "fl1-psg-tro-2026-11-07-psg": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "fl1-psg-tro-2026-11-07-tro": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "fl1-str-psg-2026-10-17-psg": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1433,6 +1538,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-10T12:36:40Z"
+  },
+  "fr2-pau-nan-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "gavin-newsom-democratic-nomination-odds-leader-on-october-31": {
     "outcome": 1,
@@ -1604,6 +1714,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
   },
+  "lal-esp-dep-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "lal-esp-mad-2026-10-17-mad": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1628,6 +1743,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "lal-osa-bil-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "lal-ray-elc-2026-10-24-ray": {
     "outcome": 0,
@@ -1663,6 +1783,26 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-07T13:07:55Z"
+  },
+  "lal-val-rea-2026-11-07-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "lal-val-rea-2026-11-07-rea": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "lal-val-rea-2026-11-07-val": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "mex-atl-pac-2026-11-07-atl": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "military-action-against-saudi-oil-pipeline-east-west-by-october-15": {
     "outcome": 0,
@@ -1964,6 +2104,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T13:07:20Z"
   },
+  "sea-par-bol-2026-11-07-par": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "sea-par-tor-2026-10-19-tor": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1983,6 +2128,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "sea-rom-sas-2026-11-07-rom": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "sea-sas-laz-2026-10-27-laz": {
     "outcome": 1,
@@ -2033,6 +2183,21 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "spl-abh-sha-2026-11-05-draw": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "spl-kho-kha-2026-11-05-draw": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "spl-qad-fay-2026-11-05-draw": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "svk1-kos-dac-2026-08-09-dac": {
     "outcome": 1,
@@ -3634,6 +3799,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "will-republicans-win-white-voters-in-the-midterms": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
+  },
   "will-ronaldo-caiado-finish-in-third-place-in-the-first-round-of-the-2026-brazilian-presidential-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3973,6 +4143,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "will-there-be-between-25-and-29-average-daily-transits-of-the-bab-el-mandeb-strait-on-october-31": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T13:29:34Z"
   },
   "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031": {
     "outcome": 1,
