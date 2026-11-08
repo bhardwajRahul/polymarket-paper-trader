@@ -49,6 +49,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T14:16:23Z"
   },
+  "atp-tournament-winner-2026-135039-competitor-407573": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T17:14:20Z"
+  },
   "aut-scr-wac-2026-11-06-wac": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -503,6 +508,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-07T13:07:55Z"
+  },
+  "bun-koe-b04-2026-11-08-b04": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T17:14:20Z"
   },
   "bun-koe-moe-2026-10-11-koe": {
     "outcome": 1,
@@ -1079,6 +1089,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "epl-bri-bre-2026-11-08-bri": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T17:14:20Z"
+  },
   "epl-bri-cry-2026-10-18-bri": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1108,6 +1123,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
+  },
+  "epl-cry-liv-2026-11-08-liv": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T17:14:20Z"
   },
   "epl-eve-che-2026-10-17-che": {
     "outcome": 1,
@@ -1153,6 +1173,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T16:59:39Z"
+  },
+  "epl-ips-bou-2026-11-08-bou": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T17:14:20Z"
+  },
+  "epl-ips-bou-2026-11-08-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T17:14:20Z"
   },
   "epl-ips-ful-2026-10-10-ips": {
     "outcome": 1,
@@ -1248,6 +1278,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "epl-sun-che-2026-11-08-che": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T17:14:20Z"
+  },
+  "epl-sun-che-2026-11-08-sun": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T17:14:20Z"
   },
   "epl-sun-lee-2026-10-25-lee": {
     "outcome": 0,
@@ -2063,6 +2103,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "sea-gen-mil-2026-11-08-mil": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-08T17:14:20Z"
   },
   "sea-juv-laz-2026-10-18-juv": {
     "outcome": 0,
