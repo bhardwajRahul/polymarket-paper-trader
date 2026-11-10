@@ -74,6 +74,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-10T14:56:43Z"
   },
+  "bitcoin-above-72k-on-november-10-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
+  },
+  "bitcoin-above-74k-on-november-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
+  },
   "bitcoin-above-74k-on-november-6-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -94,6 +104,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T17:22:12Z"
   },
+  "bitcoin-above-76k-on-november-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
+  },
   "bitcoin-above-76k-on-november-6-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -113,6 +128,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-31T16:22:36Z"
+  },
+  "bitcoin-above-78k-on-november-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
   },
   "bitcoin-above-78k-on-november-4-2026": {
     "outcome": 1,
@@ -1374,10 +1394,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
   },
+  "ethereum-above-2000-on-november-10-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
+  },
+  "ethereum-above-2100-on-november-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
+  },
   "ethereum-above-2200-on-november-1-2026": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T17:22:12Z"
+  },
+  "ethereum-above-2200-on-november-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
   },
   "ethereum-above-2200-on-november-6-2026": {
     "outcome": 1,
@@ -1648,6 +1683,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T18:20:37Z"
+  },
+  "gemini-carbon-released-by-november-10-2026-20261026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
+  },
+  "gemini-carbon-released-by-november-11-2026-20261026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
   },
   "gemini-carbon-released-by-november-9-2026-20261026": {
     "outcome": 0,
@@ -3764,6 +3809,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "will-gemini-carbon-be-released-on-november-10-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
+  },
+  "will-gemini-carbon-be-released-on-november-11-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
+  },
   "will-godzilla-minus-zero-opening-weekend-box-office-be-less-than-28m": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -4278,6 +4333,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "will-the-price-of-bitcoin-be-between-74000-76000-on-november-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-10T18:15:48Z"
   },
   "will-the-price-of-bitcoin-be-between-80000-82000-on-october-2-2026": {
     "outcome": 0,
