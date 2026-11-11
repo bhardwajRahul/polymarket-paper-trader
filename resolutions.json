@@ -564,6 +564,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-08T13:29:34Z"
   },
+  "cdr-tav-val-2026-10-28-val": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
+  "cdr-tri-leg-2026-10-28-tri": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
   "chi-hai-tie-2026-10-17-hai": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -693,6 +703,21 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-10T14:56:43Z"
+  },
+  "elon-musk-of-tweets-november-3-november-10-2026-260-279": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
+  "elon-musk-of-tweets-november-3-november-10-2026-280-299": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
+  "elon-musk-of-tweets-november-3-november-10-2026-300-319": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
   },
   "elon-musk-of-tweets-november-5-november-7-2026-115-139": {
     "outcome": 0,
@@ -1739,6 +1764,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T15:26:24Z"
   },
+  "israel-military-action-against-syria-by-october-31-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
   "israel-x-iran-ceasefire-continues-through-november-5": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1748,6 +1778,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-10T14:56:43Z"
+  },
+  "israel-x-iran-ceasefire-continues-through-november-7": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
   },
   "israel-x-iran-ceasefire-continues-through-october-15": {
     "outcome": 1,
@@ -3254,6 +3289,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "uwcl-rma-pfc-2026-11-10-pfc": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
   "will-1win-launch-a-token-by-october-31-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3328,6 +3368,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-09T16:27:26Z"
+  },
+  "will-bitcoin-dip-to-71k-on-november-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
+  "will-bitcoin-dip-to-72k-on-november-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
   },
   "will-bitcoin-dip-to-72k-on-november-9-2026": {
     "outcome": 0,
@@ -3618,6 +3668,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-ethereum-dip-to-2000-on-november-10-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
   },
   "will-ethereum-dip-to-2050-on-november-9-2026": {
     "outcome": 0,
@@ -3913,6 +3968,26 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-09T13:22:09Z"
+  },
+  "will-kai-cenat-finish-his-gta-marathon-by-november-10-20261105": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
+  "will-kai-cenat-finish-his-gta-marathon-by-november-11": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
+  "will-kai-cenat-finish-his-gta-marathon-by-november-11-259-pm-et": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
+  },
+  "will-kai-cenat-finish-his-gta-marathon-by-november-11-759-am-et": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
   },
   "will-ken-sim-win-the-2026-vancouver-mayoral-election": {
     "outcome": 0,
@@ -4323,6 +4398,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "will-the-houthis-enter-saudi-arabia-by-october-31": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-11T14:28:08Z"
   },
   "will-the-next-fable-model-5pt2-be-released-on-october-27-2026": {
     "outcome": 0,
