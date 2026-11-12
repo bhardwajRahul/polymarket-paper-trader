@@ -79,6 +79,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-11T18:26:57Z"
   },
+  "bitcoin-above-70k-on-november-12-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-12T18:58:38Z"
+  },
   "bitcoin-above-72k-on-november-10-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -89,6 +94,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-11T18:26:57Z"
   },
+  "bitcoin-above-72k-on-november-12-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-12T18:58:38Z"
+  },
   "bitcoin-above-74k-on-november-10-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -98,6 +108,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-11T18:26:57Z"
+  },
+  "bitcoin-above-74k-on-november-12-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-12T18:58:38Z"
   },
   "bitcoin-above-74k-on-november-6-2026": {
     "outcome": 1,
@@ -1454,6 +1469,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-11T18:26:57Z"
   },
+  "ethereum-above-2000-on-november-12-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-12T18:58:38Z"
+  },
   "ethereum-above-2100-on-november-10-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1473,6 +1493,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-10T18:15:48Z"
+  },
+  "ethereum-above-2200-on-november-12-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-12T18:58:38Z"
   },
   "ethereum-above-2200-on-november-6-2026": {
     "outcome": 1,
@@ -4483,6 +4508,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "will-the-price-of-bitcoin-be-between-72000-74000-on-november-12-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-12T18:58:38Z"
   },
   "will-the-price-of-bitcoin-be-between-74000-76000-on-november-10-2026": {
     "outcome": 0,
