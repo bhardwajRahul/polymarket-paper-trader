@@ -1664,6 +1664,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "fif-mal-swz-2026-11-12-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
   "fif-mex-chl-2026-10-05-mex": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1788,6 +1793,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
+  },
+  "houthi-military-action-against-saudi-arabia-on-october-15": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
   },
   "houthi-x-saudi-arabia-effective-ceasefire-by-october-31-20260916": {
     "outcome": 0,
@@ -2118,6 +2128,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-12T15:19:45Z"
+  },
+  "next-astra-model-6pt1-released-by-november-12-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
   },
   "next-astra-model-6pt1-released-by-november-9-2026": {
     "outcome": 0,
@@ -3089,6 +3104,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
   },
+  "unl-alb-fin-2026-11-12-alb": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
   "unl-alb-smr-2026-10-06-alb": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3119,6 +3139,26 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "unl-cze-esp-2026-11-12-cze": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "unl-cze-esp-2026-11-12-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "unl-cze-esp-2026-11-12-esp": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "unl-cze-esp-2026-11-12-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
   "unl-eng-cze-2026-10-06-cze": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3128,6 +3168,26 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
+  },
+  "unl-eng-hrv-2026-11-12-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "unl-eng-hrv-2026-11-12-eng": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "unl-eng-hrv-2026-11-12-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "unl-eng-hrv-2026-11-12-hrv": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
   },
   "unl-esp-cze-2026-10-03-draw": {
     "outcome": 0,
@@ -3184,6 +3244,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "unl-ita-fra-2026-11-12-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "unl-ita-fra-2026-11-12-fra": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "unl-ita-fra-2026-11-12-ita": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
   "unl-ita-tur-2026-10-05-ita": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3233,6 +3308,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
+  },
+  "unl-tur-bel-2026-11-12-bel": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
   },
   "unl-ukr-hun-2026-10-05-hun": {
     "outcome": 1,
@@ -3364,6 +3444,36 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-11T14:28:08Z"
   },
+  "uwcl-slb-faw-2026-11-11-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "uwcl-slb-faw-2026-11-11-exact-score-0-0": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "uwcl-slb-faw-2026-11-11-faw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "uwcl-slb-faw-2026-11-11-first-to-score-neither": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "uwcl-slb-faw-2026-11-11-slb": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "uwec-tor-spa-2026-11-11-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
   "will-1win-launch-a-token-by-october-31-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3443,6 +3553,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-12T15:19:45Z"
+  },
+  "will-bitcoin-dip-to-70k-on-november-12-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
   },
   "will-bitcoin-dip-to-71k-on-november-10-2026": {
     "outcome": 0,
@@ -3639,6 +3754,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "will-bitcoin-reach-74k-on-november-12-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
+  },
   "will-bitcoin-reach-76k-on-november-11-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3753,6 +3873,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-ethereum-dip-to-1950-on-november-12-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
   },
   "will-ethereum-dip-to-2000-in-october-2026": {
     "outcome": 0,
@@ -3978,6 +4103,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-09T16:27:26Z"
+  },
+  "will-gpt-astra-6pt1-be-released-on-november-12-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-13T14:38:57Z"
   },
   "will-grand-theft-auto-vi-launch-trailer-get-between-40-and-60-million-views-on-week-1": {
     "outcome": 0,
