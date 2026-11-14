@@ -749,6 +749,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-08T13:29:34Z"
   },
+  "elon-musk-of-tweets-november-12-november-14-2026-0-39": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
   "elon-musk-of-tweets-november-3-november-10-2026-240-259": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -783,6 +788,26 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-13T18:32:24Z"
+  },
+  "elon-musk-of-tweets-november-6-november-13-2026-220-239": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "elon-musk-of-tweets-november-6-november-13-2026-240-259": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "elon-musk-of-tweets-november-6-november-13-2026-260-279": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "elon-musk-of-tweets-november-6-november-13-2026-280-299": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
   },
   "elon-musk-of-tweets-november-7-november-9-2026-40-64": {
     "outcome": 0,
@@ -1479,6 +1504,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-08T13:29:34Z"
   },
+  "es2-leg-bur-2026-11-13-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
   "es2-ovi-eib-2026-10-12-eib": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1773,6 +1803,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
+  },
+  "fourth-jensen-huang-affair-reported-by-november-13": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
   },
   "fr2-asn-gui-2026-10-09-asn": {
     "outcome": 1,
@@ -2168,6 +2203,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "next-astra-model-6pt1-released-by-november-13-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
   },
   "next-astra-model-6pt1-released-by-november-9-2026": {
     "outcome": 0,
@@ -3164,6 +3204,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "unl-bul-isl-2026-11-13-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
   "unl-che-mac-2026-10-06-btts": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3314,20 +3359,50 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "unl-lie-aze-2026-11-13-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
   "unl-lux-bul-2026-10-06-lux": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
+  },
+  "unl-lux-est-2026-11-13-lux": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
   },
   "unl-mac-sco-2026-10-03-sco": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-04T13:04:06Z"
   },
+  "unl-mol-kaz-2026-11-13-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
   "unl-nir-geo-2026-10-05-nir": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "unl-nld-grc-2026-11-13-exact-score-any-other": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "unl-nld-grc-2026-11-13-grc": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "unl-nld-grc-2026-11-13-nld": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
   },
   "unl-nld-ser-2026-10-04-nld": {
     "outcome": 1,
@@ -3339,10 +3414,35 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "unl-sco-mac-2026-11-13-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
   "unl-sco-slv-2026-10-06-sco": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
+  },
+  "unl-ser-ger-2026-11-13-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "unl-ser-ger-2026-11-13-ger": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "unl-ser-ger-2026-11-13-ser": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "unl-svk-far-2026-11-13-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
   },
   "unl-tur-bel-2026-11-12-bel": {
     "outcome": 1,
@@ -3578,6 +3678,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-bitcoin-dip-to-67k-on-november-13-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
   },
   "will-bitcoin-dip-to-70k-november-2-8-2026": {
     "outcome": 0,
@@ -4203,6 +4308,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-jonathan-kreiss-tomkins-win-the-2026-alaska-governor-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-14T13:35:59Z"
   },
   "will-jynxzi-ron-and-los-beat-the-minecraft-challenge-by-october-10-20261004": {
     "outcome": 1,
