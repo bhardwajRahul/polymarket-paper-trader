@@ -74,10 +74,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-10T14:56:43Z"
   },
+  "bitcoin-above-66k-on-november-14-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
   "bitcoin-above-68k-on-november-13-2026": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-13T18:32:24Z"
+  },
+  "bitcoin-above-68k-on-november-14-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
   },
   "bitcoin-above-70k-on-november-11-2026": {
     "outcome": 1,
@@ -753,6 +763,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "elon-musk-of-tweets-november-12-november-14-2026-65-89": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "elon-musk-of-tweets-november-12-november-14-2026-90-114": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
   },
   "elon-musk-of-tweets-november-3-november-10-2026-240-259": {
     "outcome": 0,
@@ -1499,6 +1519,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-07T13:07:55Z"
   },
+  "es2-alm-and-2026-11-14-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
   "es2-leg-alb-2026-11-07-leg": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1514,10 +1539,35 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-13T14:16:23Z"
   },
+  "es2-ovi-gir-2026-11-14-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "es2-rm-cor-2026-11-14-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "es2-rm-cor-2026-11-14-rm": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "es2-rso-spo-2026-11-14-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
   "ethereum-above-1900-on-november-13-2026": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-13T18:32:24Z"
+  },
+  "ethereum-above-1900-on-november-14-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
   },
   "ethereum-above-2000-on-november-10-2026": {
     "outcome": 1,
@@ -3194,6 +3244,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "unl-aut-ire-2026-11-14-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
   "unl-bel-tur-2026-10-02-bel": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3298,6 +3353,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
+  },
+  "unl-geo-hun-2026-11-14-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "unl-geo-hun-2026-11-14-hun": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
   },
   "unl-grc-ger-2026-10-04-ger": {
     "outcome": 0,
@@ -3419,6 +3484,26 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "unl-nor-wal-2026-11-14-nor": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "unl-nor-wal-2026-11-14-wal": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "unl-prt-den-2026-11-14-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "unl-prt-den-2026-11-14-prt": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
   "unl-rom-swe-2026-10-05-swe": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3453,6 +3538,21 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "unl-swe-bih-2026-11-14-bih": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "unl-swe-bih-2026-11-14-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "unl-swe-bih-2026-11-14-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
   },
   "unl-tur-bel-2026-11-12-bel": {
     "outcome": 1,
@@ -3688,6 +3788,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-bitcoin-dip-to-64k-november-9-15-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "will-bitcoin-dip-to-64k-on-november-14-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
   },
   "will-bitcoin-dip-to-66k-november-9-15-2026": {
     "outcome": 1,
@@ -4028,6 +4138,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-ethereum-dip-to-1800-november-9-15-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T13:58:49Z"
   },
   "will-ethereum-dip-to-1950-on-november-12-2026": {
     "outcome": 1,
