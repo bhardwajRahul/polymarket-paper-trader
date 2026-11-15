@@ -79,6 +79,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-15T13:58:49Z"
   },
+  "bitcoin-above-66k-on-november-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T17:24:01Z"
+  },
   "bitcoin-above-68k-on-november-13-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -88,6 +93,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "bitcoin-above-68k-on-november-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T17:24:01Z"
   },
   "bitcoin-above-70k-on-november-11-2026": {
     "outcome": 1,
@@ -1558,6 +1568,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "ethereum-above-1800-on-november-15-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T17:24:01Z"
   },
   "ethereum-above-1900-on-november-13-2026": {
     "outcome": 1,
@@ -3274,6 +3289,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "unl-cyp-mon-2026-11-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T17:24:01Z"
+  },
   "unl-cze-esp-2026-11-12-cze": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3433,6 +3453,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-14T16:57:16Z"
+  },
+  "unl-lat-arm-2026-11-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-15T17:24:01Z"
   },
   "unl-lie-aze-2026-11-13-exact-score-any-other": {
     "outcome": 0,
