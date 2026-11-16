@@ -1534,6 +1534,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-15T13:58:49Z"
   },
+  "es2-eib-cad-2026-11-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "es2-eld-sab-2026-11-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "es2-gra-lpm-2026-11-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
   "es2-leg-alb-2026-11-07-leg": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2273,6 +2288,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-14T13:35:59Z"
+  },
+  "next-astra-model-6pt1-released-by-november-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
   },
   "next-astra-model-6pt1-released-by-november-9-2026": {
     "outcome": 0,
@@ -3264,6 +3284,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-15T13:58:49Z"
   },
+  "unl-bel-ita-2026-11-15-bel": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "unl-bel-ita-2026-11-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "unl-bel-ita-2026-11-15-ita": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
   "unl-bel-tur-2026-10-02-bel": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3354,6 +3389,26 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-04T13:04:06Z"
   },
+  "unl-esp-eng-2026-11-15-btts": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "unl-esp-eng-2026-11-15-eng": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "unl-esp-eng-2026-11-15-esp": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "unl-esp-eng-2026-11-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
   "unl-est-isl-2026-10-06-isl": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3374,6 +3429,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
   },
+  "unl-fra-tur-2026-11-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "unl-fra-tur-2026-11-15-fra": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "unl-fra-tur-2026-11-15-tur": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
   "unl-geo-hun-2026-11-14-exact-score-any-other": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3388,6 +3458,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "unl-hrv-cze-2026-11-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
   },
   "unl-hrv-eng-2026-10-03-eng": {
     "outcome": 1,
@@ -3609,6 +3684,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "us-canada-diplomatic-agreement-to-lower-tariffs-by-october-31": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
   "us-iran-ceasefire-continues-through-the-midterms": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3754,6 +3834,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "will-aleksandar-repic-win-the-2026-ljubljana-mayoral-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
   "will-aleksandar-vucic-united-serbia-win-the-most-seats-in-the-2026-serbian-parliamentary-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3813,6 +3898,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-bitcoin-dip-to-60k-november-9-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "will-bitcoin-dip-to-62k-november-9-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
   },
   "will-bitcoin-dip-to-64k-november-9-15-2026": {
     "outcome": 1,
@@ -4044,6 +4139,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "will-bitcoin-reach-68k-november-9-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "will-bitcoin-reach-68k-on-november-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
   "will-bitcoin-reach-74k-on-november-12-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -4163,6 +4268,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-ethereum-dip-to-1600-november-9-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "will-ethereum-dip-to-1700-november-9-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
   },
   "will-ethereum-dip-to-1800-november-9-15-2026": {
     "outcome": 1,
@@ -4398,6 +4513,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-09T16:27:26Z"
+  },
+  "will-gpt-astra-6pt1-be-released-between-november-9-and-november-15-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-16T15:52:36Z"
   },
   "will-gpt-astra-6pt1-be-released-on-november-12-2026": {
     "outcome": 0,
