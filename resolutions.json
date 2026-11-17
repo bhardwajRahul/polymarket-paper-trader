@@ -694,6 +694,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
   },
+  "conl-can-gua-2026-11-16-gua": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
+  },
   "crint-zaf-aus-2026-10-18-zaf": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -743,6 +748,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "el1-wyc-hud-2026-11-14-halftime-result-draw": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
   },
   "elc-bbr-car-2026-10-10-car": {
     "outcome": 0,
@@ -1543,6 +1553,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-07T13:07:55Z"
+  },
+  "es2-alb-cel-2026-11-16-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
   },
   "es2-alm-and-2026-11-14-exact-score-any-other": {
     "outcome": 0,
@@ -3339,6 +3354,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "unl-che-sco-2026-11-16-che": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
+  },
+  "unl-che-sco-2026-11-16-sco": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
+  },
   "unl-cyp-lat-2026-10-05-cyp": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3479,10 +3504,30 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-15T13:58:49Z"
   },
+  "unl-ger-nld-2026-11-16-ger": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
+  },
+  "unl-ger-nld-2026-11-16-nld": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
+  },
   "unl-grc-ger-2026-10-04-ger": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "unl-grc-ser-2026-11-16-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
+  },
+  "unl-grc-ser-2026-11-16-ser": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
   },
   "unl-hrv-cze-2026-11-15-exact-score-any-other": {
     "outcome": 0,
@@ -3583,6 +3628,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-04T13:04:06Z"
+  },
+  "unl-mac-slv-2026-11-16-slv": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
   },
   "unl-mol-kaz-2026-11-13-exact-score-any-other": {
     "outcome": 0,
@@ -3814,6 +3864,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "uslc-new-srp-2026-11-15-srp": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
+  },
   "uwcl-juv-oly-2026-11-11-juv": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3934,10 +3989,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-16T15:52:36Z"
   },
+  "will-bitcoin-dip-to-61k-on-november-16-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
+  },
   "will-bitcoin-dip-to-62k-november-9-15-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-16T15:52:36Z"
+  },
+  "will-bitcoin-dip-to-62k-on-november-16-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
+  },
+  "will-bitcoin-dip-to-63k-on-november-16-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
   },
   "will-bitcoin-dip-to-64k-november-9-15-2026": {
     "outcome": 1,
@@ -4168,6 +4238,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
+  },
+  "will-bitcoin-reach-67k-on-november-16-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-17T16:04:42Z"
   },
   "will-bitcoin-reach-68k-november-9-15-2026": {
     "outcome": 0,
