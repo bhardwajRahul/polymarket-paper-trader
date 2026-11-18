@@ -34,6 +34,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-05T14:42:29Z"
   },
+  "2026-senate-map-r-none": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
   "afcq-som-gha-2026-11-16-gha": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -853,6 +858,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "elon-musk-of-tweets-november-16-november-18-2026-65-89": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
   },
   "elon-musk-of-tweets-november-3-november-10-2026-240-259": {
     "outcome": 0,
@@ -2083,6 +2093,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-11T14:28:08Z"
+  },
+  "israel-x-iran-ceasefire-continues-through-november-15": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
   },
   "israel-x-iran-ceasefire-continues-through-november-5": {
     "outcome": 1,
@@ -3404,6 +3419,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "unl-bih-rom-2026-11-17-bih": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-bih-rom-2026-11-17-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
   "unl-bul-isl-2026-11-13-exact-score-any-other": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3453,6 +3478,26 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-13T14:38:57Z"
+  },
+  "unl-den-nor-2026-11-17-btts": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-den-nor-2026-11-17-den": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-den-nor-2026-11-17-exact-score-0-0": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-den-nor-2026-11-17-nor": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
   },
   "unl-eng-cze-2026-10-06-cze": {
     "outcome": 0,
@@ -3609,15 +3654,45 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "unl-hun-nir-2026-11-17-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-hun-nir-2026-11-17-hun": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
   "unl-ire-isr-2026-10-04-ire": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "unl-ire-kvx-2026-11-17-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-ire-kvx-2026-11-17-ire": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
   "unl-isl-lux-2026-11-16-isl": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-16T20:40:54Z"
+  },
+  "unl-isr-aut-2026-11-17-aut": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-isr-aut-2026-11-17-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
   },
   "unl-ita-fra-2026-11-12-exact-score-any-other": {
     "outcome": 0,
@@ -3734,6 +3809,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-15T13:58:49Z"
   },
+  "unl-pol-swe-2026-11-17-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-pol-swe-2026-11-17-pol": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-pol-swe-2026-11-17-swe": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
   "unl-prt-den-2026-11-14-exact-score-any-other": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3799,6 +3889,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-13T14:38:57Z"
   },
+  "unl-ukr-geo-2026-11-17-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-ukr-geo-2026-11-17-ukr": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
   "unl-ukr-hun-2026-10-05-hun": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3808,6 +3908,26 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-03T01:28:44Z"
+  },
+  "unl-wal-prt-2026-11-17-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-wal-prt-2026-11-17-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-wal-prt-2026-11-17-prt": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "unl-wal-prt-2026-11-17-wal": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
   },
   "us-announces-end-of-iranian-blockade-by-november-2-2026": {
     "outcome": 0,
@@ -3903,6 +4023,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
+  },
+  "us-x-iran-effective-ceasefire-by-november-15-20261108": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "us-x-iran-effective-ceasefire-by-november-8-20261108": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
   },
   "us-x-iran-effective-ceasefire-continues-through-november-6-20261103": {
     "outcome": 1,
@@ -4054,6 +4184,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-17T16:04:42Z"
   },
+  "will-bitcoin-dip-to-61k-on-november-17-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
+  },
   "will-bitcoin-dip-to-62k-november-9-15-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -4063,6 +4198,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-17T16:04:42Z"
+  },
+  "will-bitcoin-dip-to-62k-on-november-17-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
   },
   "will-bitcoin-dip-to-63k-on-november-16-2026": {
     "outcome": 0,
@@ -4413,6 +4553,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
+  },
+  "will-dan-sullivan-win-the-alaska-senate-race-in-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
   },
   "will-denny-hamlin-win-the-2026-nascar-cup-series-championship-20260722193936788": {
     "outcome": 0,
@@ -4893,6 +5038,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "will-mary-peltola-win-the-alaska-senate-race-in-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T15:43:56Z"
   },
   "will-monthly-inflation-increase-by-0pt5-in-september-2026": {
     "outcome": 0,
