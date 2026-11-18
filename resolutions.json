@@ -94,6 +94,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-17T19:30:52Z"
   },
+  "bitcoin-above-64k-on-november-18-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T19:28:54Z"
+  },
   "bitcoin-above-66k-on-november-14-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -113,6 +118,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-17T19:30:52Z"
+  },
+  "bitcoin-above-66k-on-november-18-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T19:28:54Z"
   },
   "bitcoin-above-68k-on-november-13-2026": {
     "outcome": 1,
@@ -863,6 +873,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "elon-musk-of-tweets-november-16-november-18-2026-90-114": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T19:28:54Z"
   },
   "elon-musk-of-tweets-november-3-november-10-2026-240-259": {
     "outcome": 0,
@@ -1673,6 +1688,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-17T19:30:52Z"
+  },
+  "ethereum-above-1700-on-november-18-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-18T19:28:54Z"
   },
   "ethereum-above-1800-on-november-15-2026": {
     "outcome": 1,
