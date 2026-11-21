@@ -94,6 +94,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-20T19:06:17Z"
   },
+  "bitcoin-above-60k-on-november-21-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
+  },
   "bitcoin-above-62k-on-november-17-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -108,6 +113,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-20T19:06:17Z"
+  },
+  "bitcoin-above-62k-on-november-21-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
   },
   "bitcoin-above-64k-on-november-17-2026": {
     "outcome": 0,
@@ -1439,6 +1449,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-24T14:22:39Z"
   },
+  "epl-ast-sun-2026-11-21-ast": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
+  },
+  "epl-bou-not-2026-11-21-bou": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
+  },
+  "epl-bou-not-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
+  },
   "epl-bou-sun-2026-10-18-sun": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1468,6 +1493,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "epl-che-lee-2026-11-21-che": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
+  },
+  "epl-che-lee-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
   },
   "epl-che-tot-2026-10-24-che": {
     "outcome": 0,
@@ -1698,6 +1733,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "epl-tot-ips-2026-11-21-ips": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
+  },
+  "epl-tot-ips-2026-11-21-tot": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
   },
   "ere-utr-nec-2026-11-08-nec": {
     "outcome": 1,
@@ -2419,6 +2464,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-24T14:22:39Z"
   },
+  "lal-ray-val-2026-11-21-ray": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
+  },
   "lal-rea-sev-2026-10-18-draw": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2759,6 +2809,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "sea-com-cag-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
+  },
   "sea-fio-ata-2026-10-29-ata": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2808,6 +2863,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
+  },
+  "sea-laz-lec-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
   },
   "sea-mil-ata-2026-10-18-mil": {
     "outcome": 1,
@@ -2994,6 +3054,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "tur-ame-riz-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
+  },
   "tur-cf-riz-2026-10-16-cf": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3003,6 +3068,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "tur-gal-sam-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T18:13:15Z"
   },
   "tur-gen-gfk-2026-11-21-exact-score-any-other": {
     "outcome": 0,
