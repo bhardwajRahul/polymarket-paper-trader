@@ -669,6 +669,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
   },
+  "bun-bay-koe-2026-11-20-bay": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
+  "bun-bay-koe-2026-11-20-koe": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
   "bun-dor-wer-2026-10-09-dor": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -923,6 +933,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-20T15:30:30Z"
+  },
+  "elon-musk-of-tweets-november-13-november-20-2026-340-359": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
+  "elon-musk-of-tweets-november-13-november-20-2026-360-379": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
   },
   "elon-musk-of-tweets-november-13-november-20-2026-400-419": {
     "outcome": 0,
@@ -1564,6 +1584,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
   },
+  "epl-mac-ful-2026-11-21-mac": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
   "epl-mac-ips-2026-10-17-ips": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2094,6 +2119,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-14T13:35:59Z"
   },
+  "fourth-jensen-huang-affair-reported-by-november-20": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
   "fr2-asn-gui-2026-10-09-asn": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2313,6 +2343,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
+  },
+  "lal-bil-esp-2026-11-20-esp": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
+  "lal-bil-esp-2026-11-20-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
   },
   "lal-cel-bet-2026-10-25-bet": {
     "outcome": 0,
@@ -2889,6 +2929,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-08T13:29:34Z"
   },
+  "spl-ahl-nsr-2026-10-15-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
   "spl-ahl-taa-2026-11-07-draw": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2958,6 +3003,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
+  },
+  "tur-gen-gfk-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
   },
   "tur-koc-riz-2026-10-31-koc": {
     "outcome": 0,
@@ -4254,6 +4304,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T15:46:27Z"
   },
+  "will-annual-inflation-be-3pt7-in-october-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
   "will-annual-inflation-be-3pt7-in-september-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -4288,6 +4343,21 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-bitcoin-dip-to-56k-november-16-22-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
+  "will-bitcoin-dip-to-58k-november-16-22-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
+  "will-bitcoin-dip-to-58k-on-november-20-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
   },
   "will-bitcoin-dip-to-59k-on-november-19-2026": {
     "outcome": 0,
@@ -4699,10 +4769,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
   },
+  "will-core-cpi-yoy-be-2pt6-in-october-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
   "will-dan-sullivan-win-the-alaska-senate-race-in-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-18T15:43:56Z"
+  },
+  "will-david-eby-be-the-next-premier-of-british-columbia": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
   },
   "will-denny-hamlin-win-the-2026-nascar-cup-series-championship-20260722193936788": {
     "outcome": 0,
@@ -4723,6 +4803,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-ethereum-dip-to-1600-november-16-22-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
   },
   "will-ethereum-dip-to-1600-november-9-15-2026": {
     "outcome": 0,
@@ -5089,6 +5174,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-11T14:28:08Z"
   },
+  "will-kai-cenat-finish-his-gta-vi-marathon-by-november-22": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
+  },
   "will-ken-sim-win-the-2026-vancouver-mayoral-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -5128,6 +5218,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-lorne-doerkson-be-the-next-premier-of-british-columbia": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-21T14:42:58Z"
   },
   "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4": {
     "outcome": 1,
