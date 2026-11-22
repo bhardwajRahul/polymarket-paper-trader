@@ -84,10 +84,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-10T14:56:43Z"
   },
+  "bitcoin-above-56k-on-november-22-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
+  },
   "bitcoin-above-58k-on-november-20-2026": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-20T19:06:17Z"
+  },
+  "bitcoin-above-58k-on-november-22-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
   },
   "bitcoin-above-60k-on-november-20-2026": {
     "outcome": 0,
@@ -98,6 +108,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-21T18:13:15Z"
+  },
+  "bitcoin-above-60k-on-november-22-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
   },
   "bitcoin-above-62k-on-november-17-2026": {
     "outcome": 1,
@@ -118,6 +133,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-21T18:13:15Z"
+  },
+  "bitcoin-above-62k-on-november-22-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
   },
   "bitcoin-above-64k-on-november-17-2026": {
     "outcome": 0,
@@ -673,6 +693,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
+  },
+  "bun-aug-mai-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
   },
   "bun-bay-dor-2026-10-31-bay": {
     "outcome": 0,
@@ -1569,6 +1594,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
   },
+  "epl-hul-bri-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
+  },
   "epl-hul-eve-2026-10-11-eve": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2149,6 +2179,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
   },
+  "fl1-pfc-ang-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
+  },
   "fl1-pfc-ren-2026-10-18-pfc": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2399,6 +2434,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
   },
+  "lal-bar-vil-2026-11-22-bar": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
+  },
+  "lal-bar-vil-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
+  },
   "lal-bet-bar-2026-10-17-bar": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2533,6 +2578,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-25T11:36:43Z"
+  },
+  "lal-rrc-rso-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
   },
   "lal-sev-ala-2026-11-06-draw": {
     "outcome": 1,
@@ -2839,6 +2889,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "sea-bol-udi-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
+  },
   "sea-cag-bol-2026-10-24-bol": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3004,6 +3059,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-08T13:29:34Z"
   },
+  "sea-sas-gen-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
+  },
   "sea-sas-laz-2026-10-27-laz": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3148,6 +3208,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-21T14:42:58Z"
+  },
+  "tur-kas-ala-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T18:18:02Z"
   },
   "tur-koc-fen-2026-11-21-exact-score-any-other": {
     "outcome": 0,
