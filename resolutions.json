@@ -654,6 +654,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "bra-pal-fla-2026-11-21-fla": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
   "brazil-first-round-vote-share-flavio-bolsonaro-39-plus": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1654,6 +1659,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-11T13:07:22Z"
   },
+  "epl-new-ars-2026-11-21-ars": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "epl-new-ars-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
   "epl-new-ast-2026-10-17-ast": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -1743,6 +1758,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-21T18:13:15Z"
+  },
+  "ere-nec-psv-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "ere-tel-zwo-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
   },
   "ere-utr-nec-2026-11-08-nec": {
     "outcome": 1,
@@ -2103,6 +2128,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "fl1-asm-aja-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
   },
   "fl1-hac-psg-2026-10-30-psg": {
     "outcome": 1,
@@ -2469,6 +2499,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-21T18:13:15Z"
   },
+  "lal-rea-cel-2026-11-21-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "lal-rea-cel-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "lal-rea-cel-2026-11-21-rea": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
   "lal-rea-sev-2026-10-18-draw": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2498,6 +2543,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-07T13:07:55Z"
+  },
+  "lal-sev-bet-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
   },
   "lal-val-rea-2026-11-07-exact-score-any-other": {
     "outcome": 0,
@@ -2774,6 +2824,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-01T10:51:29Z"
   },
+  "scop-mot-ran-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
   "sea-ata-ven-2026-10-12-ata": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2864,6 +2919,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
   },
+  "sea-juv-ven-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
   "sea-laz-lec-2026-11-21-exact-score-any-other": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2904,10 +2964,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T13:07:20Z"
   },
+  "sea-nap-tor-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
   "sea-par-bol-2026-11-07-par": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "sea-par-rom-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
   },
   "sea-par-tor-2026-10-19-tor": {
     "outcome": 1,
@@ -3078,6 +3148,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-21T14:42:58Z"
+  },
+  "tur-koc-fen-2026-11-21-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
   },
   "tur-koc-riz-2026-10-31-koc": {
     "outcome": 0,
@@ -4724,6 +4799,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-07T13:29:25Z"
   },
+  "will-bitcoin-reach-61k-on-november-21-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "will-bitcoin-reach-62k-on-november-21-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
   "will-bitcoin-reach-67k-on-november-16-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -5374,6 +5459,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "will-mrbeasts-next-video-get-80-90m-views-on-week-1-20261110": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "will-mrbeasts-next-video-get-90-100m-views-on-week-1-20261110": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
+  },
   "will-mykola-kuleba-win-the-nobel-peace-prize-in-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -5933,6 +6028,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-xqc-finish-gta-vi-by-november-21": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-22T14:38:36Z"
   },
   "will-xrp-dip-to-1pt2-in-october-2026": {
     "outcome": 0,
