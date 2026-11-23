@@ -99,6 +99,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-22T18:18:02Z"
   },
+  "bitcoin-above-58k-on-november-23-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "bitcoin-above-60k-on-november-20-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -664,6 +669,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "bra-cap-cre-2026-11-22-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "bra-cre-gre-2026-10-07-cre": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -773,6 +783,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "bun-wer-hsv-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
   },
   "cdr-tav-val-2026-10-28-val": {
     "outcome": 1,
@@ -1649,6 +1664,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-12T15:32:19Z"
   },
+  "epl-liv-mun-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
+  "epl-liv-mun-2026-11-22-liv": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
+  "epl-liv-mun-2026-11-22-mun": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "epl-mac-bri-2026-10-31-mac": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2179,6 +2209,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
   },
+  "fl1-olm-lmf-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "fl1-pfc-ang-2026-11-22-exact-score-any-other": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2379,6 +2414,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T17:22:12Z"
   },
+  "itsb-ave-man-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "jon-ossoff-democratic-nomination-odds-leader-on-october-31": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2494,6 +2534,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "lal-get-mad-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
+  "lal-get-mad-2026-11-22-mad": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "lal-get-ray-2026-10-19-get": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -2533,6 +2583,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-08T13:29:34Z"
+  },
+  "lal-osa-mala-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
   },
   "lal-ray-elc-2026-10-24-ray": {
     "outcome": 0,
@@ -2879,6 +2934,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-22T14:38:36Z"
   },
+  "sea-ata-int-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "sea-ata-ven-2026-10-12-ata": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -2998,6 +3058,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T13:07:20Z"
+  },
+  "sea-mil-fro-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
+  "sea-mil-fro-2026-11-22-mil": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
   },
   "sea-mil-int-2026-10-31-mil": {
     "outcome": 1,
@@ -3223,6 +3293,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "tur-tra-eyu-2026-11-22-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
   },
   "ucl-aek1-rma-2026-11-04-aek1": {
     "outcome": 0,
@@ -4494,6 +4569,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-26T13:09:04Z"
   },
+  "will-alexander-zverev-win-the-2026-nitto-atp-finals": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "will-alexia-putellas-win-the-2026-womens-ballon-dor": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -4554,6 +4634,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
   },
+  "will-bitcoin-dip-to-54k-november-16-22-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "will-bitcoin-dip-to-56k-november-16-22-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -4568,6 +4653,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-21T14:42:58Z"
+  },
+  "will-bitcoin-dip-to-58k-on-november-22-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
   },
   "will-bitcoin-dip-to-59k-on-november-19-2026": {
     "outcome": 0,
@@ -4869,10 +4959,25 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-22T14:38:36Z"
   },
+  "will-bitcoin-reach-62k-november-16-22-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "will-bitcoin-reach-62k-on-november-21-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "will-bitcoin-reach-64k-november-16-22-2026-from-november-19": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
+  "will-bitcoin-reach-66k-november-16-22-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
   },
   "will-bitcoin-reach-67k-on-november-16-2026": {
     "outcome": 0,
@@ -4969,6 +5074,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
   },
+  "will-carlos-alcaraz-win-the-2026-nitto-atp-finals": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
   "will-ciro-gomes-win-the-2026-cear-gubernatorial-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -5023,6 +5133,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-06T13:22:08Z"
+  },
+  "will-ethereum-dip-to-1500-november-16-22-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
   },
   "will-ethereum-dip-to-1600-november-16-22-2026": {
     "outcome": 1,
@@ -5133,6 +5248,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
+  },
+  "will-ethereum-reach-1800-november-16-22-2026-from-november-19": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
+  },
+  "will-ethereum-reach-1900-november-16-22-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
   },
   "will-ethereum-reach-2200-on-november-9-2026": {
     "outcome": 0,
@@ -6098,6 +6223,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "will-xqc-finish-gta-vi-by-november-22": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T18:16:02Z"
   },
   "will-xrp-dip-to-1pt2-in-october-2026": {
     "outcome": 0,
