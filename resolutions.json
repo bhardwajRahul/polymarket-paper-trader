@@ -1014,6 +1014,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-18T19:28:54Z"
   },
+  "elon-musk-of-tweets-november-17-november-24-2026-240-259": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T22:30:48Z"
+  },
   "elon-musk-of-tweets-november-3-november-10-2026-240-259": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1513,6 +1518,21 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-19T13:23:13Z"
+  },
+  "epl-bre-eve-2026-11-23-bre": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T22:30:48Z"
+  },
+  "epl-bre-eve-2026-11-23-eve": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T22:30:48Z"
+  },
+  "epl-bre-eve-2026-11-23-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T22:30:48Z"
   },
   "epl-bre-liv-2026-10-17-liv": {
     "outcome": 1,
@@ -2564,6 +2584,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-22T11:57:57Z"
   },
+  "lal-lev-elc-2026-11-23-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T22:30:48Z"
+  },
   "lal-mad-bar-2026-11-08-bar": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3083,6 +3108,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-20T11:42:57Z"
+  },
+  "sea-mon-fio-2026-11-23-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T22:30:48Z"
+  },
+  "sea-mon-fio-2026-11-23-fio": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-23T22:30:48Z"
   },
   "sea-mon-nap-2026-10-28-nap": {
     "outcome": 1,
