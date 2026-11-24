@@ -1034,6 +1034,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-23T22:30:48Z"
   },
+  "elon-musk-of-tweets-november-17-november-24-2026-260-279": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T21:28:03Z"
+  },
+  "elon-musk-of-tweets-november-17-november-24-2026-280-299": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T21:28:03Z"
+  },
   "elon-musk-of-tweets-november-3-november-10-2026-240-259": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3449,6 +3459,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
   },
+  "ucl-bog-lin2-2026-11-24-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T21:28:03Z"
+  },
   "ucl-bru-rcl-2026-10-21-bru": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3483,6 +3498,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
+  },
+  "ucl-gal-ast-2026-11-24-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T21:28:03Z"
   },
   "ucl-gal-fcb-2026-10-13-draw": {
     "outcome": 0,
