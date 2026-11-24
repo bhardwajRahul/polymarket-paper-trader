@@ -84,6 +84,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-10T14:56:43Z"
   },
+  "bitcoin-above-54k-on-november-24-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T17:50:38Z"
+  },
   "bitcoin-above-56k-on-november-22-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -104,6 +109,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-23T18:16:02Z"
   },
+  "bitcoin-above-58k-on-november-24-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T17:50:38Z"
+  },
   "bitcoin-above-60k-on-november-20-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -118,6 +128,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-22T18:18:02Z"
+  },
+  "bitcoin-above-60k-on-november-24-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T17:50:38Z"
   },
   "bitcoin-above-62k-on-november-17-2026": {
     "outcome": 1,
@@ -1868,6 +1883,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-15T13:58:49Z"
+  },
+  "es2-ceu-alm-2026-11-23-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T17:50:38Z"
   },
   "es2-eib-cad-2026-11-15-exact-score-any-other": {
     "outcome": 0,
@@ -4639,6 +4659,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T15:46:27Z"
   },
+  "will-anthropic-close-below-its-ipo-price-by-november-23-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T17:50:38Z"
+  },
   "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -4694,10 +4719,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-23T18:16:02Z"
   },
+  "will-bitcoin-dip-to-58k-on-november-23-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T17:50:38Z"
+  },
   "will-bitcoin-dip-to-59k-on-november-19-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-20T15:30:30Z"
+  },
+  "will-bitcoin-dip-to-59k-on-november-23-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T17:50:38Z"
   },
   "will-bitcoin-dip-to-60k-november-9-15-2026": {
     "outcome": 0,
@@ -4713,6 +4748,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-20T15:30:30Z"
+  },
+  "will-bitcoin-dip-to-60k-on-november-23-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T17:50:38Z"
   },
   "will-bitcoin-dip-to-61k-on-november-16-2026": {
     "outcome": 0,
@@ -6003,6 +6043,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-11T14:28:08Z"
+  },
+  "will-the-hunger-games-sunrise-on-the-reaping-opening-weekend-box-office-be-at-least-105m": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-24T17:50:38Z"
   },
   "will-the-next-fable-model-5pt2-be-released-on-october-27-2026": {
     "outcome": 0,
