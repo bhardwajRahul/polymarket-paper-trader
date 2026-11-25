@@ -3804,6 +3804,26 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
   },
+  "ucl-sf-fcb-2026-11-25-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T20:43:18Z"
+  },
+  "ucl-sf-fcb-2026-11-25-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T20:43:18Z"
+  },
+  "ucl-sf-fcb-2026-11-25-fcb": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T20:43:18Z"
+  },
+  "ucl-sf-fcb-2026-11-25-sf": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T20:43:18Z"
+  },
   "ucl-sf-slp-2026-10-13-slp": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3823,6 +3843,21 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "ucl-slp-vil-2026-11-25-draw": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T20:43:18Z"
+  },
+  "ucl-slp-vil-2026-11-25-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T20:43:18Z"
+  },
+  "ucl-slp-vil-2026-11-25-vil": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T20:43:18Z"
   },
   "ucl-spo-lin2-2026-10-21-lin2": {
     "outcome": 1,
