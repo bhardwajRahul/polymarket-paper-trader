@@ -94,6 +94,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-22T18:18:02Z"
   },
+  "bitcoin-above-56k-on-november-25-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
   "bitcoin-above-58k-on-november-20-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -113,6 +118,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-24T17:50:38Z"
+  },
+  "bitcoin-above-58k-on-november-25-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
   },
   "bitcoin-above-60k-on-november-20-2026": {
     "outcome": 0,
@@ -1043,6 +1053,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-24T21:28:03Z"
+  },
+  "elon-musk-of-tweets-november-23-november-25-2026-0-39": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "elon-musk-of-tweets-november-23-november-25-2026-40-64": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
   },
   "elon-musk-of-tweets-november-3-november-10-2026-240-259": {
     "outcome": 0,
@@ -2784,6 +2804,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-18T11:11:42Z"
   },
+  "mls-sje-hou-2026-11-24-sje": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
   "next-astra-model-6pt1-released-by-november-11-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3374,6 +3399,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-05T14:42:29Z"
   },
+  "ucl-ars-bvb-2026-11-24-ars": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "ucl-ars-bvb-2026-11-24-bvb": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "ucl-ars-bvb-2026-11-24-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
   "ucl-ars-lil-2026-10-13-ars": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3469,6 +3509,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-22T11:57:57Z"
   },
+  "ucl-com-aek1-2026-11-24-aek1": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "ucl-com-aek1-2026-11-24-com": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "ucl-com-aek1-2026-11-24-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
   "ucl-com-mnu-2026-10-21-com": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3498,6 +3553,16 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
+  },
+  "ucl-fey-por-2026-11-24-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "ucl-fey-por-2026-11-24-por": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
   },
   "ucl-gal-ast-2026-11-24-exact-score-any-other": {
     "outcome": 0,
@@ -3574,6 +3639,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
   },
+  "ucl-mnc-nap-2026-11-24-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "ucl-mnc-nap-2026-11-24-nap": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
   "ucl-mnc-psg-2026-10-14-mnc": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3649,10 +3724,30 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
   },
+  "ucl-rbl-rcl-2026-11-24-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
   "ucl-rcl-com-2026-11-04-com": {
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-05T14:42:29Z"
+  },
+  "ucl-rma-psv-2026-11-24-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "ucl-rma-psv-2026-11-24-psv": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "ucl-rma-psv-2026-11-24-rma": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
   },
   "ucl-rma-rbl-2026-10-21-rbl": {
     "outcome": 0,
@@ -3683,6 +3778,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
+  },
+  "ucl-sba-bet-2026-11-24-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "ucl-sba-bet-2026-11-24-sba": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
   },
   "ucl-sba-stu-2026-10-14-sba": {
     "outcome": 0,
@@ -4684,6 +4789,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-24T17:50:38Z"
   },
+  "will-anthropic-close-below-its-ipo-price-by-november-25-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
   "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -4724,6 +4834,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-21T14:42:58Z"
   },
+  "will-bitcoin-dip-to-57k-on-november-24-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
+  },
   "will-bitcoin-dip-to-58k-november-16-22-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -4753,6 +4868,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-24T17:50:38Z"
+  },
+  "will-bitcoin-dip-to-59k-on-november-24-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
   },
   "will-bitcoin-dip-to-60k-november-9-15-2026": {
     "outcome": 0,
@@ -5063,6 +5183,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "will-bitcoin-reach-62k-on-november-24-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
   },
   "will-bitcoin-reach-64k-november-16-22-2026-from-november-19": {
     "outcome": 0,
@@ -6268,6 +6393,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-29T17:21:59Z"
+  },
+  "will-venezuela-win-miss-universe-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-25T17:16:47Z"
   },
   "will-vitality-win-the-pgl-masters-bucharest-2026": {
     "outcome": 0,
