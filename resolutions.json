@@ -2444,6 +2444,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-18T15:43:56Z"
   },
+  "israel-x-iran-ceasefire-continues-through-november-22": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
   "israel-x-iran-ceasefire-continues-through-november-5": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3464,6 +3469,16 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
   },
+  "ucl-atm-vf-2026-11-25-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
+  "ucl-atm-vf-2026-11-25-vf": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
   "ucl-bay-ars-2026-10-21-ars": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -3503,6 +3518,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-24T21:28:03Z"
+  },
+  "ucl-bru-liv-2026-11-25-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
   },
   "ucl-bru-rcl-2026-10-21-bru": {
     "outcome": 1,
@@ -3598,6 +3618,21 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-int-stu-2026-11-25-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
+  "ucl-lil-bay-2026-11-25-bay": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
+  "ucl-lil-bay-2026-11-25-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
   },
   "ucl-lil-gal-2026-10-21-lil": {
     "outcome": 0,
@@ -3708,6 +3743,16 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-21T11:54:48Z"
+  },
+  "ucl-psg-rom-2026-11-25-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
+  "ucl-psg-rom-2026-11-25-psg": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
   },
   "ucl-psv-bru-2026-11-04-psv": {
     "outcome": 0,
@@ -3829,6 +3874,21 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-14T11:57:58Z"
   },
+  "ucl-shd-fen-2026-11-25-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
+  "ucl-shd-fen-2026-11-25-fen": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
+  "ucl-shd-fen-2026-11-25-shd": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
   "ucl-slp-ars-2026-11-04-ars": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -3863,6 +3923,21 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-22T11:57:57Z"
+  },
+  "ucl-spo-mnu-2026-11-25-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
+  "ucl-spo-mnu-2026-11-25-mnu": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
+  "ucl-spo-mnu-2026-11-25-spo": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
   },
   "ucl-stu-atm-2026-10-20-atm": {
     "outcome": 0,
@@ -4869,10 +4944,20 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-21T14:42:58Z"
   },
+  "will-bitcoin-dip-to-56k-on-november-25-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
+  },
   "will-bitcoin-dip-to-57k-on-november-24-2026": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-25T17:16:47Z"
+  },
+  "will-bitcoin-dip-to-57k-on-november-25-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
   },
   "will-bitcoin-dip-to-58k-november-16-22-2026": {
     "outcome": 1,
@@ -5208,6 +5293,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-22T14:38:36Z"
+  },
+  "will-bitcoin-reach-61k-on-november-25-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
   },
   "will-bitcoin-reach-62k-november-16-22-2026": {
     "outcome": 0,
@@ -6378,6 +6468,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "will-theburntpeanut-finish-gta-vi-by-november-26": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-26T16:57:52Z"
   },
   "will-there-be-between-25-and-29-average-daily-transits-of-the-bab-el-mandeb-strait-on-october-31": {
     "outcome": 1,
