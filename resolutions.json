@@ -849,6 +849,26 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-17T10:49:12Z"
   },
+  "col-aja-thu-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
+  "col-bha-ucr-2026-11-26-bha": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
+  "col-csk-tra-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
+  "col-gen-crv-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "col-get-bha-2026-11-05-bha": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -859,15 +879,35 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
   },
+  "col-haj-kst-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "col-jab-bha-2026-10-22-bha": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-23T11:43:51Z"
   },
+  "col-jab-lug-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
+  "col-paf-mid-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "col-pao-csk-2026-11-05-exact-score-any-other": {
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-06T14:20:13Z"
+  },
+  "col-scf-twe-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
   },
   "col1-cjf-dep-2026-08-10-dep": {
     "outcome": 0,
@@ -1068,6 +1108,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-24T21:28:03Z"
+  },
+  "elon-musk-of-tweets-november-20-november-27-2026-220-239": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
   },
   "elon-musk-of-tweets-november-23-november-25-2026-0-39": {
     "outcome": 0,
@@ -2784,6 +2829,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
   },
+  "military-action-against-saudi-oil-pipeline-east-west-by-october-31": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "mls-atl-fcc-2026-10-10-atl": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -4009,6 +4059,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-06T14:20:13Z"
   },
+  "uel-bes-hbs-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "uel-bou-mil1-2026-10-22-bou": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -4024,6 +4079,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-06T14:20:13Z"
   },
+  "uel-cel1-bou-2026-11-26-bou": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "uel-cry-hof-2026-11-05-cry": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -4033,6 +4093,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "uel-din-lev-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
   },
   "uel-hbs-ofi-2026-11-05-exact-score-any-other": {
     "outcome": 0,
@@ -4089,6 +4154,31 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-06T14:20:13Z"
   },
+  "uel-olm-lev2-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
+  "uel-oly-mil1-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
+  "uel-plz-ben-2026-11-26-ben": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
+  "uel-plz-ben-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
+  "uel-rbs-aa-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "uel-rbs-mil1-2026-10-15-draw": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -4103,6 +4193,11 @@
     "outcome": 1,
     "resolution_source": "uma",
     "resolved_at": "2026-11-06T14:20:13Z"
+  },
+  "uel-sun-jag-2026-11-26-exact-score-any-other": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
   },
   "uel-ut-sun-2026-10-15-sun": {
     "outcome": 1,
@@ -5744,6 +5839,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-05T14:46:46Z"
   },
+  "will-francis-james-allison-oyague-win-the-next-lima-mayoral-elections-20260724154000922": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "will-gemini-carbon-be-released-on-november-10-2026": {
     "outcome": 1,
     "resolution_source": "uma",
@@ -5899,6 +5999,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
   },
+  "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "will-lamine-yamal-win-the-2026-ballon-dor": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -6029,6 +6134,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-09T13:22:09Z"
   },
+  "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
+  },
   "will-ndp-win-the-most-seats-in-the-2026-british-columbia-general-election": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -6088,6 +6198,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-01T13:29:42Z"
+  },
+  "will-rafael-lopez-aliaga-win-the-next-lima-mayoral-elections": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T16:43:54Z"
   },
   "will-raphael-glucksman-win-the-socialist-party-nomination-to-contest-the-2027-french-presidential-elections-20260710182042071": {
     "outcome": 1,
