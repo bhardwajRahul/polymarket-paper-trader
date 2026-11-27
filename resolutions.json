@@ -134,6 +134,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-11-26T20:19:30Z"
   },
+  "bitcoin-above-58k-on-november-27-2026": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
+  },
   "bitcoin-above-60k-on-november-20-2026": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -153,6 +158,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-24T17:50:38Z"
+  },
+  "bitcoin-above-60k-on-november-27-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
   },
   "bitcoin-above-62k-on-november-17-2026": {
     "outcome": 1,
@@ -203,6 +213,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-20T19:06:17Z"
+  },
+  "bitcoin-above-64k-on-november-27-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
   },
   "bitcoin-above-66k-on-november-14-2026": {
     "outcome": 0,
@@ -934,6 +949,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-15T11:34:48Z"
   },
+  "democratic-2028-presidential-odds-66-68-on-november-27": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
+  },
   "dfb-bay-fcm-2026-10-28-draw": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -1113,6 +1133,26 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-27T16:43:54Z"
+  },
+  "elon-musk-of-tweets-november-20-november-27-2026-240-259": {
+    "outcome": 1,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
+  },
+  "elon-musk-of-tweets-november-20-november-27-2026-260-279": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
+  },
+  "elon-musk-of-tweets-november-20-november-27-2026-280-299": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
+  },
+  "elon-musk-of-tweets-november-20-november-27-2026-300-319": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
   },
   "elon-musk-of-tweets-november-23-november-25-2026-0-39": {
     "outcome": 0,
@@ -2073,6 +2113,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-11-26T20:19:30Z"
+  },
+  "ethereum-above-1800-on-november-27-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
   },
   "ethereum-above-1900-on-november-13-2026": {
     "outcome": 1,
@@ -5899,6 +5944,11 @@
     "resolution_source": "uma",
     "resolved_at": "2026-10-27T12:17:20Z"
   },
+  "will-helen-zille-be-the-next-mayor-of-johannesburg-20260609220255151": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
+  },
   "will-iliana-iotova-win-the-2026-bulgarian-presidential-first-round-by-10-20": {
     "outcome": 0,
     "resolution_source": "uma",
@@ -6463,6 +6513,11 @@
     "outcome": 0,
     "resolution_source": "uma",
     "resolved_at": "2026-10-16T11:29:12Z"
+  },
+  "will-the-price-of-bitcoin-be-between-60000-62000-on-november-27-2026": {
+    "outcome": 0,
+    "resolution_source": "uma",
+    "resolved_at": "2026-11-27T20:16:52Z"
   },
   "will-the-price-of-bitcoin-be-between-64000-66000-on-november-17-2026": {
     "outcome": 0,
